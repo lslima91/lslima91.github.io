@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arquitectura on IPTV CAV 2015/2016</title>
+    <link>http://www.example.com/tags/arquitectura/</link>
+    <description>Recent content in Arquitectura on IPTV CAV 2015/2016</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</managingEditor>
+    <webMaster>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</webMaster>
+    <copyright>(c) 2015 IPTV - CAV.</copyright>
+    <lastBuildDate>Mon, 07 Dec 2015 18:19:45 +0000</lastBuildDate>
+    <atom:link href="http://www.example.com/tags/arquitectura/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tecnologia</title>
+      <link>http://www.example.com/2015/12/07/tecnologia/</link>
+      <pubDate>Mon, 07 Dec 2015 18:19:45 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/tecnologia/</guid>
+      <description>&lt;!-- &lt;h2&gt;3 Tecnologia&lt;/h2&gt; --&gt;
+
+&lt;p&gt;&lt;h3&gt;1 Arquitectura&lt;/h3&gt;
+&lt;p&gt;A IPTV compreende várias etapas desde a produção do conteúdo até ao utilizador o puder ver. Resumindo, estas etapas são:
+&lt;ul&gt;
+    &lt;li&gt;Armazenamento dos programas;&lt;/li&gt;
+    &lt;li&gt;Preparação dos programas – conversão analógico-digital caso seja preciso, criar pacotes, comprimir/codificar e encriptar;&lt;/li&gt;
+    &lt;li&gt;Transmissão dos programas – por unicast ou grupos de IP multicast, por exemplo.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;Nestas etapas estão envolvidas algumas entidades que vale a pena realçar: os Super Head-End, onde os programas são armazenados e os serviços são coordenados, Video Hub Offices que tratam da distribuição local para as set-top boxes, Content Delivery Networks (CDN’s), que os fornecedores usam para reduzir o tempo de transmissão de conteúdo em longas distâncias (por exemplo, um conteúdo gerado nos Estados Unidos pode ser transmitido para um CDN no Reino Unido, ser aí armazenado e quando um utilizador em Portugal quiser ter acesso ao conteúdo, este obtém-no do CDN). Estão ainda envolvidos vários protocolos e receptores (denominados de set-top boxes, que recebem os pacotes, desencriptam, convertem para vídeo e áudio e apresentam ao utilizador), sendo ambos discutidos posteriormente. Vale ainda salientar que para proporcionar uma boa Quality of Service (QoS) o receptor deve ter uma conexão à Internet com capacidade de 10 a 100 Mbps, razão pela qual a IPTV não surgiu mais cedo.
+Um Super Head-end pode servir milhões de clientes, processando os canais de vídeo comuns a todos os subscritores na sua área de serviço. Um Video Serving Office, por outro lado, está localizado em cada região como seja preciso para lidar com programação local e canais específicos de uma cidade ou área geográfica.&lt;a href=&#34;http://www.asbutc.com/UserFiles/2011-IPTV%20Course%20notes.pdf&#34;&gt;[3]&lt;/a&gt;
+De um Head-end é requerido, fundamentalmente:
+&lt;ul&gt;
+    &lt;li&gt;Escalibidade e flexibilidade;&lt;/li&gt;
+    &lt;li&gt;Codificadores MPEG-4 AVC proporcionando boa qualidade a relativamente baixos débitos;&lt;/li&gt;
+    &lt;li&gt;Reliabilidade ao nível da transmissão;&lt;/li&gt;
+    &lt;li&gt;Capacidade para a complexa gestão necessária;&lt;/li&gt;
+    &lt;li&gt;Integração com os middlewares.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;Os fornecedores de IPTV adquirem os seus conteúdos através de diversas fontes. O objectivo é adquirir e converter os vídeos/áudio recebidos através de inúmeras fontes, incluindo satélite, “off-air”, fibra e outras fontes digitais ou analógicas que incluem uma grande gama de dispositivos.
+À medida que os sinais de vídeo e de áudio são adquiridos, o Head-End processa cada sinal para distribuição. No passado, este processo era relativamente simples, dado que todos os subscritores visualizavam conteúdo no mesmo tipo de dispositivo e com apenas um formato de vídeo. Actualmente, este processo é muito mais complexo, tendo que ter em consideração:
+&lt;ul&gt;
+    &lt;li&gt;A variabilidade de dispositivos em que se visualiza o conteúdo;&lt;/li&gt;
+    &lt;li&gt;A inserção de publicidade local e regional;&lt;/li&gt;
+    &lt;li&gt;As funcionalidades de reprodução (serviços VOD como pausa, play, entre outros);&lt;/li&gt;
+    &lt;li&gt;A codificação de vídeo/áudio.&lt;/li&gt;
+&lt;/ul&gt;
+Umas das principais funções deste Head-End é a codificação de vídeo, porque mesmo quando os fornecedores de conteúdo oferecem excelente aquisição de conteúdo, processamento e gestão, no final, as decisões que fazem na codificação de vídeo determinam a qualidade do serviço IPTV oferecido. Além de terem que oferecer a melhor qualidade de imagem possível, têm que o fazer usando o mínimo de débito (Largura de Banda), usando, por isso, principalmente, o codec vídeo MPEG-4/AVC, que, actualmente e com o codec HEVC/H.265 ainda não totalmente desenvolvido e optimizado, proporciona a mesma qualidade que, por exemplo, MPEG-2 usando até metade do débito.&lt;br&gt;
+A distribuição do conteúdo, canais SDTV (standard definition) ou HDTV (high definition), é feita usando vários dispositivos ao longo da rede, por exemplo, digital subscriber line access multiplexers (DSLAM), e outras tecnologias como fibra a casa do utilizador (oferecido no nosso país pela Vodafone, por exemplo). Estes dispositivos, assim como uma arquitectura resumida em IPTV é apresentada na Figura 1.
+A distribuição dos canais propriamente ditos, é feita através de IP multicast, isto é, surgem grupos de utilizadores a visualizar um canal e o conteúdo é enviado para o grupo que o pretende obter.&lt;br&gt;
+Em relação a factores que afectam o serviço, o principal é o atraso, porque, havendo interatividade, existem dois atrasos (de transmissão e de receção), um envolvendo o pedido do utilizador e outro envolvendo a resposta do servidor; originando, aliado a outros factores como a codificação, por exemplo, um atraso considerável na mudança de canal (ou zapping). Existem no entanto outros factores que podem afectar o serviço, como:
+&lt;ul&gt;
+    &lt;li&gt;Compressão e codificação – já mencionado, envolve, normalmente, um conciliar entre qualidade e o nível de compressão desejado;&lt;/li&gt;
+    &lt;li&gt;Jitter – Variação do tempo de chegada dos pacotes, provocada por congestão na rede. Normalmente necessita de um buffer para suavizar as variações, buffer que pode ter problemas como overflow ou underflow;&lt;/li&gt;
+    &lt;li&gt;Perda de pacotes - podem ocorrer por inúmeras razões como limitação da banda, congestão da rede, falha na ligação ou erros de transmissão.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;Existem ainda dois termos importantes tanto em IPTV como em qualquer serviço de televisão, a Qualidade de Serviço e Qualidade de Experiência.
+A Quality of Service (QoS) é uma ou mais medidas do desempenho e prioridades desejados para o sistema de comunicação em IPTV. Inclui, por exemplo, a disponibilidade do serviço, o máximo de débito de erros de bits, a quantidade de perda de pacotes, os atrasos e a qualidade de transmissão.
+A Quality of Experience (QoE) é uma ou mais medidas da comunicação total e experiência de entretenimento sob a perspectiva dos utilizadores. Inclui, por exemplo, avaliar a qualidade do serviço assistida pelo utilizador, facilidade do serviço, diversidade de conteúdo e aplicações disponíveis e a rapidez/tempo de resposta.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/OZAULbg.png&#34; width=&#34;500&#34; height=&#34;500&#34;&gt;&lt;br&gt;
+Figura 1 – Arquitectura resumida em IPTV &lt;a href=&#34;http://www.irb.hr/users/grubisic/dc-vis/repository/2014/State%20of%20the%20art%20of%20IPTV.pdf&#34;&gt;[1]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;2. Protocolos de transmissão&lt;/h3&gt;
+&lt;p&gt;Existem inúmeros protocolos utilizados e à disposição para IPTV e para os pacotes envolvidos na transmissão do seu conteúdo, mas os principais são UDP, RTP/RTSP e IGMP. Os protocolos utilizados e à disposição podem ser divididos em camadas (até porque existem diversas camadas na transmissão de um pacote, denominadas de Osi Layers).
+Estas camadas dividem-se geralmente em:
+&lt;ul&gt;
+    &lt;li&gt;Camada de Aplicação&lt;/li&gt;
+    &lt;li&gt;Camada de Apresentação&lt;/li&gt;
+    &lt;li&gt;Camada de Sessão – RTP (Real-Time Protocol) e RTSP (Real-Time Streaming Protocol)&lt;/li&gt;
+    &lt;li&gt;Camada de Transporte – TCP (Transmission Control Protocol) ou UDP (User Datagram Protocol)&lt;/li&gt;
+    &lt;li&gt;Camada de rede – Endereços IP e IGMP (IP Group Membership Protocol)&lt;/li&gt;
+    &lt;li&gt;Camada de Ligação de dados e Camada Física – Ethernet e Wi-Fi 802.11&lt;/li&gt;
+&lt;/ul&gt;
+Existem ainda outros protocolos que podem ser utilizados mas que não o são usualmente, como Datagram Congestion Control Protocol (DCCP) &lt;a href=&#34;http://www.academia.edu/7517506/Capacity_Analysis_of_IPTV_over_IEEE_802.11n&#34;&gt;[2]&lt;/a&gt; e TCP Friendly Rate Control (TFRC).
+Em relação aos protocolos mais utilizados, UDP é um protocolo de comunicação que permite que uma aplicação escreva um datagrama encapsulado num pacote IPv4 (utilizando um endereço IP com 32 bits) ou IPv6 (utilizando um endereço IP com 128 bits; surgiu para resolver a escassez de endereços IPv4 mas ainda não é utilizado pela maior parte dos serviços na Internet) e então enviado ao destino. Este protocolo não garante que os pacotes enviados de uma fonte chegam ao destino, é no entanto utilizado em IPTV devido aos requerimentos de baixo atraso. Isto porque TCP garante o envio dos pacotes mas envolve mais mensagens, dado que para o estabelecimento de uma ligação requere mensagens syn, syn+ack e ack, isto é, quase como um hand-shake.
+Para manter o envio em tempo real e garantir algum controlo sobre a transmissão são usados RTP que trata dos streams de áudio e vídeo (muito usado também em Voice over IP ou VoIP) e RTCP para controlar o desempenho da transmissão e garantir a QoS.
+Por fim, IGMP é usado porque, como já foi referido, a distribuição de canais é feita por multicast, sendo utilizado este protocolo para o realizar.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;3. Codecs e standards (áudio, vídeo) e Metadados&lt;/h3&gt;
+&lt;h4&gt;3.1. MPEG-2&lt;/h4&gt;&lt;/p&gt;
+
+&lt;p&gt;Existem dois elementos principais da codificação em MPEG-2, a transformada DCT (Discrete Cosine Transform) e predição inter-frames com compensação de movimento. Cada coeficiente da transformada DCT indica a contribuição de uma combinação particular de frequências espaciais horizontais e verticais para o bloco da imagem original.&lt;br&gt;
+A predição, explora redundância temporal tentando prever o frame a codificar através de um frame anterior (descodificado, dado que o descodificador não tem acesso aos originais).&lt;br&gt;
+Na codificação, cada frame é dividido em macroblocos de 16x16, sobre os quais é aplicada a predição e estimação de movimento (no caso de frames P ou B), depois é subtraída esta predição da imagem original, resultando numa matriz 16x16 com as diferenças. A seguir, o macrobloco é dividido em blocos de 8x8 e para cada bloco é aplicado a transformada DCT, quantizado e utilizado um codificador entrópico.
+MPEG-2 define três tipos de frames: Intra (I) que são codificados sem referência a outros frames, são usados periodicamente para proporcionar pontos de acesso (facilita acesso aleatório) onde a descodificação pode começar; Predictive (P) que podem usar o frame P ou I anterior para compensação de movimento e Bidirectionally-predictive (B) que pode usar o frame I ou P anterior e seguinte, resultando no maior nível de compressão.
+Os diferentes tipos de frames (ou pictures) normalmente repetem-se numa sequência, denominada de Group of Pictures (GOP).&lt;a href=&#34;http://www.digitalpreservation.gov/formats/fdd/fdd000028.shtml&#34;&gt;[5]&lt;/a&gt;
+Apresenta-se de seguida, na figura 2, a arquitectura de funcionamento desta codificação.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/5EXaKub.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+Figura 2 - Diagrama de Blocos MPEG-2 &lt;a href=&#34;http://i564.photobucket.com/albums/ss83/skyjuice88/BlockDiagram.jpg&#34;&gt;[10]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;3.2. MPEG-4&lt;/h3&gt;
+&lt;p&gt;MPEG-4 é uma família de standards internacionais que fornecem ferramentas para a entrega de multimédia. Estas ferramentas incluem excelentes codecs para comprimir áudio, vídeo e rich media.
+O codec de vídeo mais recente do MPEG-4 é o AVC (Advanced Video Codec), também denominado de ITU H.264. Este codec representa grandes desenvolvimentos em codificação de vídeo em relação aos anteriores, oferecendo um débito típico de metade do de MPEG-2 para a mesma qualidade percetível. &lt;a href=&#34;https://www1.ethz.ch/replay/docs/whitepaper_mpegif.pdf&#34;&gt;[4]&lt;/a&gt;&lt;br&gt;
+Em aplicações onde o custo de hardware e questões energéticas fazem com que a implementação de AVC seja difícil, MPEG-4 oferece um perfil simples e avançado simples (Simple e Advanced Simple Profile codecs).&lt;br&gt;
+Estes codecs de vídeo são normalmente usados em conjunto com AAC, o codec de áudio de MPEG-4 que proporciona excelente qualidade de áudio stereo para débitos iguais ou superiores a 128 kbit/s.&lt;br&gt;
+Os fundamentos do MPEG-4 são descritos nas Partes 1, 2, 3  e 10, sendo a Parte 1 os Sistemas, Parte 2 Visual, Parte 3 o Áudio e Parte 10 o Advanced Video Coding.
+Existem, no entanto, muitas mais partes, totalizando mais de vinte, entre elas a Parte 6 (Delivery Multimedia Integration Framework) que define uma interface entre a aplicação e a rede ou armazenamento; a Parte 4 (Conformance) que define como testar uma implementação MPEG-4; a Parte 7 que define um codificador de vídeo optimizado; a Parte 8 que define como preparar MPEG-4 streams para transporte IP; entre muitas outras.&lt;a href=&#34;https://www1.ethz.ch/replay/docs/whitepaper_mpegif.pdf&#34;&gt;[4]&lt;/a&gt; Apresenta-se na Figura 3 a interação entre alguns destes codecs/standards.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/XmznDvy.png&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+Figura 3 – Interação entre MPEG-4 e outros standards &lt;a href=&#34;https://www1.ethz.ch/replay/docs/whitepaper_mpegif.pdf&#34;&gt;[4]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Os standards MPEG-7 e MPEG-21 são ferramentas adicionais que estendem  a funcionalidade do MPEG e interagem, principalmente, com o MPEG-4 para criar novas formas de gerir o conteúdo. Descrições e metadados MPEG-7 podem ser transportados como MPEG-4 streams, e especificações MPEG-21 são criadas para complementar representação de conteúdo MPEG-4.&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;3.3. MPEG-7 e Metadados&lt;/h4&gt;
+Metadados, ou dados sobre dados, são uma das partes mais importantes deste sistema (e de outros semelhantes), principalmente actualmente com a quantidade de conteúdos existente. Estes permitem, por exemplo, a identificação de programas e canais e consequente navegação entre eles. Navegar entre dezenas de canais e centenas de programas disponíveis na set-top box sem metadados seria algo impossível, teria de se verificar sequencialmente o conteúdo de cada um deles, algo impensável com a quantidade existente.&lt;br&gt;
+MPEG-7 é um standard recentemente acabado para descrição de conteúdo multimédia. É usado para indexar, catalogar (identificar), ferramentas de pesquisa, seleção de programas, decisão inteligente sobre conteúdo, entre outros.&lt;br&gt;
+Este standard, ITU-T H.751 ou MPEG-7, fornece mecanismos claros para os fornecedores de conteúdo interpretarem e integrarem informação de direitos/permissões (direitos de autor, por exemplo) e outras informações dos metadados nos conteúdos trocados entre os fornecedores e os receptores. Assim, permite que haja interoperabilidade entre os fornecedores de conteúdos e fabricantes de dispositivos (set-top box, por exemplo) ao nível dos metadados, dado que define claramente, como estes devem ser integrados. &lt;a href=&#34;http://www.tvtechnology.com/cable-satellite-iptv/0149/new-metadata-enables-legal-content-sharing-across-iptv-platforms/237338&#34;&gt;[7]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;3.4. MPEG-21&lt;/h4&gt;
+Este standard define uma “linguagem” que facilita a adaptação dinâmica do conteúdo à rede de transmissão e aos dispositivos de consumo e várias ferramentas para tornar a gestão de direitos digitais mais interoperáveis. Ao gerir o conteúdo e o acesso ao conteúdo, permite interoperabilidade e a portabilidade do conteúdo.&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;3.5. MP3&lt;/h4&gt;
+Este codec, para codificação de audio, é dos mais usados e conhecidos. Isto porque foi (e é) bastante usado para codificar música, que é dos tipos de multimédia mais procurados e mais rentável.&lt;br&gt;
+O MP3 tem origem no nome MPEG-1 Layer 3, que foi uma das ferramentas de codificação criadas pelo MPEG-1, no entanto, quando criado o MPEG-2 foi ainda criado um codec com compatibilidade para o primeiro, apenas com algumas melhorias, isto porque, como já foi referido, existia muitos interesses e muito dinheiro na música em MP3.
+Pode ser usado para codificar um canal de áudio (mono) ou dois (stereo). Para dois canais, pode ser usado para codificar em no joint stereo (cada canal é codificado em separado) ou joint stereo (codificado em conjunto, explorando redundâncias entre os dois). [5]
+É apresentada a arquitectura da codificação em MPEG-1 Layer 3, ou MP3, na Figura 4.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/RrTZgR1.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+Figura 4 – Diagrama de Blocos de MP3 &lt;a href=&#34;http://www.digikey.com/en/articles/techzone/2011/dec/~/media/Images/Article%20Library/TechZone%20Articles/2011/December/Audio%20Coding%20and%20Compression%20for%20Microcontrollers/article-2011december-audio-coding-and-compression-fig1.jpg&#34;&gt;[9]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;3.6. AAC&lt;/h4&gt;
+&lt;p&gt;O codec AAC para audio é visto como uma evolução ao MP3, sendo, no entanto, menos utilizado que o seu predecessor, isto porque quando surgiu já existia na altura uma grande indústria construída à volta do MP3: a música. É no entanto bastante utilizado, principalmente a versão melhorada pelo MPEG-4, aliado com AVC (vídeo).
+Para proporcionar a mesma qualidade a débitos menores que o MP3 foram introduzidas as seguintes alterações:
+&lt;ul&gt;
+    &lt;li&gt;Maior resolução de frequência (espectral);&lt;/li&gt;
+    &lt;li&gt;Predição – Uma predição para trás opcional;&lt;/li&gt;
+    &lt;li&gt;Melhor codificação joint stereo;&lt;/li&gt;
+    &lt;li&gt;Melhor codificação de Huffman (entrópica).&lt;/li&gt;
+&lt;/ul&gt;
+Introduziram-se ainda algumas alterações de maneira a proporcionar melhor qualidade:
+&lt;ul&gt;
+    &lt;li&gt;Melhor switching de blocos – Em vez do banco de filtros híbrido (em cascata) do MP3, o codec AAC usa um banco de filtros com uma variação de MDCT (Modified Discrete Cosine Transform);&lt;/li&gt;
+    &lt;li&gt;Temporal Noise Shaping (TNS) – Esta técnica molda o ruído no domínio do tempo fazendo um loop aberto no domínio da frequência.
+Com estas pequenas alterações, AAC consegue atingir, em média, a mesma qualidade que MP3 com cerca de 70% do débito binário.&lt;a href=&#34;https://graphics.ethz.ch/teaching/mmcom12/slides/mp3_and_aac_brandenburg.pdf&#34;&gt;[6]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;4. Interfaces&lt;/h3&gt;
+&lt;p&gt;Em termos de interfaces pode definir-se dois tipos: as interfaces envolvidas na transmissão, como routers, servidores, set-top boxes e outras e a interface de utilizador, que é responsável por apresentar uma maneira do utilizador interagir com o sistema (seleccionar o canal ou programa que deseja visualizar, por exemplo).
+A interface de utilizador é uma parte fundamental, não só em IPTV, mas em todos os sistemas que envolvam interação com o utilizador do serviço. Com o surgimento da IPTV e de serviços de televisão com cada vez mais interação do utilizador, o surgimento de uma interface foi algo inevitável de forma a aumentar a Quality of Experience. Esta interface deve ser simples, limpa mas  apelativa e funcional, isto é, as funcionalidades e a sua exploração devem ser apresentadas de modo a serem acessíveis à maioria dos utilizadores e ao mesmo tempo, deve ser uma interface com aspecto agradável.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/K2zl7CQ.jpg&#34; &gt; &lt;br&gt;
+Figura 5 – Interface da Apple TV &lt;a href=&#34;http://i.i.cbsi.com/cnwk.1d/i/tim/2012/03/07/overview_ui_screen.jpg&#34;&gt;[8]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Do outro tipo de interface, no âmbito deste artigo, aprofunda-se apenas a Set-top box.
+Uma IP set-top box é um dispositivo que serve de interface entre a rede (por onde é transmitido o sinal) e a televisão (ou aparelho onde se visualize os programas).
+Além de descodificar e apresentar os programas de televisão, uma set-top box fornece várias funcionalidades como video-on-demand (VOD), guia electrónico de programas (EPG), gestão de direitos digitais (DRM, envolvendo direitos de acesso, direitos de autor e semelhantes), navegação no tempo de programa (ver programas passados, andar para trás e para a frente num dado programa, etc.), personalização (definir favoritos, por exemplo) e diversos outros serviços interactivos e multimédia. Estes serviços podem incluir, por exemplo, navegação na Internet, e-mail, conectividade ao computador (reproduzir fotos, vídeos ou músicas guardados no PC), Instant Messaging (IM) ou Voice over IP (VoIP).&lt;a href=&#34;http://www.asbutc.com/UserFiles/2011-IPTV%20Course%20notes.pdf&#34;&gt;[3]&lt;/a&gt;
+
+Para permitir estas funcionalidades e serviços a set-top box possui alguns elementos:
+&lt;ul&gt;
+    &lt;li&gt;Uma interface de rede – para receber os sinais IPTV e enviar os comandos do utilizador;&lt;/li&gt;
+    &lt;li&gt;Saídas de vídeo e de áudio – para apresentar ao utilizador, através de uma televisão por exemplo;&lt;/li&gt;
+    &lt;li&gt;Interface de utilizador – para permitir interatividade;&lt;/li&gt;
+    &lt;li&gt;Software/Hardware de acesso condicional – para permitir a visualização de conteúdo seguro e ao qual pode ter acesso;&lt;/li&gt;
+    &lt;li&gt;Disco rígido – para gravar diversos programas.&lt;/li&gt; 
+&lt;/ul&gt;
+De seguida, apresentam-se exemplos de set-top boxes e fabricantes destes dispositivos: &lt;a href=&#34;http://www.irb.hr/users/grubisic/dc-vis/repository/2014/State%20of%20the%20art%20of%20IPTV.pdf&#34;&gt;[1]&lt;/a&gt;
+&lt;ul&gt;
+    &lt;li&gt;Apple TV (IOS iPad, iPhone)&lt;/li&gt;
+    &lt;li&gt;Google Chromecast (Android)&lt;/li&gt;
+    &lt;li&gt;Roku&lt;/li&gt;
+    &lt;li&gt;Netgear&lt;/li&gt;
+    &lt;li&gt;Bravia (Sony Smart TV)&lt;/li&gt;
+    &lt;li&gt;Samsung&lt;/li&gt;
+    &lt;li&gt;etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;5. Controlo de Acesso&lt;/h3&gt;
+&lt;p&gt;A encriptação de vídeo e áudio é uma das tecnologias de controlo mais importantes visto que, desta maneira, é possível fornecer ligações seguras e proteger o respectivo conteúdo contra modificações inesperadas por agentes alheios. A encriptação é, por isso, o primeiro passo a realizar, cuja acção resulta numa codificação sistemática de um dado troço de vídeo e áudio, indecifrável a qualquer um que não possua a chave necessária para o desencriptar. A desencriptação trata-se do processo inverso, isto é, utilizando a mesma chave usada para a codificação (encriptação simétrica) ou correspondente (encriptação assimétrica), descodifica-se o conteúdo codificado, de modo a produzir uma cópia exacta do sinal original.&lt;br&gt;
+Smart Cards é uma das soluções para controlo da distribuição de chaves para as STB’s. Estes cartões são referidos como “smart” devido ao facto de serem constituídos por um processador e uma memória, que conseguem ser utilizados em várias aplicações. &lt;br&gt;
+Cada canal de televisão possui uma chave única de descrição, a qual é criada quando o conteúdo é preparado para broadcast. Quando um utilizador autorizado deseja assistir a um dado conteúdo codificado, o seu dispositivo envia um request para o servidor central. Este servidor certifica-se de que o utilizador é autorizado a visualizar o conteúdo. Caso seja, o servidor localiza a chave de descodificação correcta para o respectivo conteúdo e encripta-o, utilizando a chave pública referente ao smart card do utilizador. Em seguida, o servidor envia a chave de descodificação encriptada para o dispositivo do utilizador via communication path. Quando esta chega, a chave encriptada é cedida ao respectivo smart card, o qual é responsável pelo processo de desencriptação (utilizando a sua chave privada, correspondente à chave pública que o servidor utilizou). Por fim, a STB do utilizador usa a chave de descodificação desencriptada, de modo a processar o sinal de entrada e possibilitar a reprodução do conteúdo para o utilizador.&lt;br&gt;
+Digital Rights Management System (DRM), já mencionado anteriormente, é desenvolvido para proteger os direitos proprietários de um conteúdo, de um dado utilizador. Este sistema envolve uma forma de encriptação ou codificação que processa o conteúdo para não ser acessível sem a chave necessária. Um sistema DRM é também responsável por entregar, com segurança, as devidas chaves para as respectivas STB’s dos utilizadores autorizados. Estas chaves possibilitam uma reprodução correcta das streams à entrada das respectivas STB’s. A distribuição correcta de chaves deve ser assegurada de modo a prevenir a sua obtenção, quer seja intencional, quer seja não-intencional, por parte de utilizadores não autorizados &lt;a href=&#34;http://www.asbutc.com/UserFiles/2011-IPTV%20Course%20notes.pdf&#34;&gt;[3]&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;Referências:&lt;/h4&gt;
+[1]&lt;a href=&#34;http://www.irb.hr/users/grubisic/dc-vis/repository/2014/State%20of%20the%20art%20of%20IPTV.pdf&#34;&gt;http://www.irb.hr/users/grubisic/dc-vis/repository/2014/State%20of%20the%20art%20of%20IPTV.pdf&lt;/a&gt;
+[2]&lt;a href=&#34;http://www.academia.edu/7517506/Capacity_Analysis_of_IPTV_over_IEEE_802.11n&#34;&gt;http://www.academia.edu/7517506/Capacity_Analysis_of_IPTV_over_IEEE_802.11n&lt;/a&gt;
+[3]&lt;a href=&#34;http://www.asbutc.com/UserFiles/2011-IPTV%20Course%20notes.pdf&#34;&gt;http://www.asbutc.com/UserFiles/2011-IPTV%20Course%20notes.pdf&lt;/a&gt;
+[4]&lt;a href=&#34;https://www1.ethz.ch/replay/docs/whitepaper_mpegif.pdf&#34;&gt;https://www1.ethz.ch/replay/docs/whitepaper_mpegif.pdf&lt;/a&gt;
+[5]&lt;a href=&#34;http://www.digitalpreservation.gov/formats/fdd/fdd000028.shtml&#34;&gt;http://www.digitalpreservation.gov/formats/fdd/fdd000028.shtml&lt;/a&gt;
+[6]&lt;a href=&#34;https://graphics.ethz.ch/teaching/mmcom12/slides/mp3_and_aac_brandenburg.pdf&#34;&gt;https://graphics.ethz.ch/teaching/mmcom12/slides/mp3_and_aac_brandenburg.pdf&lt;/a&gt;
+[7]&lt;a href=&#34;http://www.tvtechnology.com/cable-satellite-iptv/0149/new-metadata-enables-legal-content-sharing-across-iptv-platforms/237338&#34;&gt;http://www.tvtechnology.com/cable-satellite-iptv/0149/new-metadata-enables-legal-content-sharing-across-iptv-platforms/237338&lt;/a&gt;&lt;br&gt;
+[8]&lt;a href=&#34;http://i.i.cbsi.com/cnwk.1d/i/tim/2012/03/07/overview_ui_screen.jpg&#34;&gt;http://i.i.cbsi.com/cnwk.1d/i/tim/2012/03/07/overview_ui_screen.jpg&lt;/a&gt;
+[9]&lt;a href=&#34;http://www.digikey.com/en/articles/techzone/2011/dec/~/media/Images/Article%20Library/TechZone%20Articles/2011/December/Audio%20Coding%20and%20Compression%20for%20Microcontrollers/article-2011december-audio-coding-and-compression-fig1.jpg&#34;&gt;http://www.digikey.com/en/articles/techzone/2011/dec/~/media/Images/Article%20Library/...&lt;/a&gt;
+[10]&lt;a href=&#34;http://i564.photobucket.com/albums/ss83/skyjuice88/BlockDiagram.jpg&#34;&gt;http://i564.photobucket.com/albums/ss83/skyjuice88/BlockDiagram.jpg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Investigação on IPTV CAV 2015/2016</title>
+    <link>http://www.example.com/tags/investiga%C3%A7%C3%A3o/</link>
+    <description>Recent content in Investigação on IPTV CAV 2015/2016</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</managingEditor>
+    <webMaster>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</webMaster>
+    <copyright>(c) 2015 IPTV - CAV.</copyright>
+    <lastBuildDate>Mon, 07 Dec 2015 19:57:55 +0000</lastBuildDate>
+    <atom:link href="http://www.example.com/tags/investiga%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Desafios actuais e desenvolvimentos futuros</title>
+      <link>http://www.example.com/2015/12/07/desafios-actuais-e-desenvolvimentos-futuros/</link>
+      <pubDate>Mon, 07 Dec 2015 19:57:55 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/desafios-actuais-e-desenvolvimentos-futuros/</guid>
+      <description>&lt;!-- &lt;h2&gt;Desenvolvimentos actuais e desenvolvimentos futuros&lt;/h2&gt; --&gt;
+
+&lt;p&gt;A situação da IPTV a nível mundial encontra-se em crescimento. No entanto, com o aparecimento de tecnologias concorrentes e maiores requisitos por parte dos utilizadores, a constante investigação nesta área continua um aspecto muito importante. De acordo com a literatura existente, os desenvolvimentos na área da IPTV estão divididos em três áreas: IPTV Channel Control and Management, P2P IPTV systems e Technology Assisted Living &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[1]&lt;/a&gt;.
+Em relação a IPTV Channel Control, nesta área procura-se melhorar a QoS/QoE, largura de banda do canal e também encontrar maneiras de reduzir o consumo de energia do sistema IPTV. &lt;br&gt;
+Joo et al. apresentam uma proposta para gerir a largura de banda do canal &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[2]&lt;/a&gt;. Um outro projecto “OptiBand FP7” pretende melhorar a forma como conteúdo HD é distribuido em linhas ADSL &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[4]&lt;/a&gt; também através da optimização da Largura de Banda. O tempo de zapping continua a ser uma área bastante investigada. Neste contexto, C. Cho et al. apresentam uma proposta com vista a melhorar a situação &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[3]&lt;/a&gt;. Relativamente à redução do consumo de energia, Ramos et al. apresentam um modelo de consumo dinâmico de potência &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[5]&lt;/a&gt;.&lt;br&gt;
+Em relação a sistemas P2P (Peer-to-Peer), o método de P2P content delivery aumenta a QoE ajudando a combater a grande carga que as redes encontram na distribuição de vídeo. Hei et al. &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[6]&lt;/a&gt; apresentam resultados a favor do método mesh-pull para P2P streaming. Um outro projecto “OMNeT++” [7] pretende criar uma framework para simulação rápida de sistemas P2P TV. Outro projecto, denominado de projecto “NAPA-WINE” &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[8]&lt;/a&gt; apresenta sugestões para o desenvolvimento de sistemas P2P.
+Uma implementação nova para um sistema P2PSP (peer-to-peer Straightforward Protocol) sobre WebRTC e HTML5 é sugerida por Medina-López, Cristóbal, et al [14].
+Para a área de desenvolvimento Technology Assisted Living, Thang et al. &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[9]&lt;/a&gt; sugerem a possiblidade de se usar sistemas IPTV em caso de acidentes, com um sistema de alerta de duas vias. Uma plataforma sugerida por Mlakar et al. “UMB-SmartTV” &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[10]&lt;/a&gt; combina o sistema de IPTV com tecnologias de reconhecimento de voz e de síntese de fala.&lt;br&gt;
+Existe também investigação focada na monitorização de sinais vitais recorrendo às potencialidades da IPTV &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[11]&lt;/a&gt;. Um outro artigo publicado por Vitor Simões et al. sugere uma aplicação com os mesmos fins &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[13]&lt;/a&gt;.&lt;br&gt;
+O projecto “Vital Mind” visa manter a população idosa activa combinando TV com psicologia cognitiva &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[12]&lt;/a&gt;.
+IPTV entra também na educação, nomeadamente na educação à distância &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[15]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&#34;ref&#34;&gt;&lt;h4&gt;Referências&lt;/h4&gt;&lt;/span&gt;
+&lt;p&gt;[1] Veselinovska, Biljana, Marjan Gusev, and Toni Janevski. &amp;laquo;State of the art in IPTV.&amp;raquo; Information and Communication Technology, Electronics and Microelectronics (MIPRO), 2014 37th International Convention on. IEEE, 2014.&lt;/p&gt;
+&lt;p&gt;[2]  H. Joo, H. Song, D.-B. Lee, and I. Lee, “An effective iptv channel control algorithm considering channel zapping time and network utilization,”Broadcasting, IEEE Transactions on, vol. 54, no. 2, pp. 208–216, 2008.&lt;/p&gt;
+&lt;p&gt;[3]  C. Cho, I. Han, Y. Jun, and H. Lee, “Improvement of channel zapping time in iptv services using the adjacent groups join-leave method,” in The 6th International Conference on Advanced Communication Technology,vol. 2, 2004, pp. 971–975.&lt;/p&gt;
+&lt;p&gt;[4]  OptiBand. (2010). [Online]. Available: &lt;a href=&#34;http://www.optiband-project.eu/&#34;&gt;http://www.optiband-project.eu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[5]  F. Ramos, R. J. Gibbens, F. Song, P. Rodriguez, J. Crowcroft, and I. H. White, “Reducing energy consumption in IPTV networks by selective pre-joining of channels,” in Proceedings of the first ACM SIGCOMM workshop on Green networking. ACM, 2010, pp. 47–52.&lt;/p&gt;
+&lt;p&gt;[6]  X. Hei, C. Liang, J. Liang, Y. Liu, and K. W. Ross, “A measurement study of a large-scale p2p iptv system,” Multimedia, IEEE Transactions on, vol. 9, no. 8, pp. 1672–1687, 2007.&lt;/p&gt;
+&lt;p&gt;[7]  A. Biernacki, “Simulating Performance of a BitTorrent-Based P2P TV System,” in Computer Networks. Springer, 2011, pp. 448–458.&lt;/p&gt;
+&lt;p&gt;[8]  NAPA-WINE. (2013). [Online]. Available: &lt;a href=&#34;http://www.napa-wine.eu/cgi-bin/twiki/view/Public&#34;&gt;http://www.napa-wine.eu/cgi-bin/twiki/view/Public&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[9]  T. C. Thang, A. T. Pham, Z. Cheng, and N. P. Ngoc, “Towards a fullduplex emergency alert system based on IPTV platform,” in Awareness Science and Technology (iCAST), 2011 3rd International Conference on.IEEE, 2011, pp. 536–539.&lt;/p&gt;
+&lt;p&gt;[10] I. Mlakar, Z. Kaˇciˇc, D. Zimˇsek, and M. Rojc, “A novel ims based iptv platform for integrating multimodal technologies,” in Proceedings of the 2013 International Conference on Systems, Control and Informatics, 2013, pp. 364–370.&lt;/p&gt;
+&lt;p&gt;[11] M. Pustiˇsek, E. Stojmenova, L. Zebec, and D. Kervina, “Bringing health telemonitoring into iptv based ami environment,” Previous Publications of the AMEA Association, 2013.&lt;/p&gt;
+&lt;p&gt;[12] Vital Mind. (2011). [Online]. Available: &lt;a href=&#34;http://www.vitalmind-project.eu/&#34;&gt;http://www.vitalmind-project.eu/&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;[13] Ribeiro, Vitor Simões, et al. &amp;laquo;Usability Evaluation of a Health Care Application Based on IPTV.&amp;raquo; Procedia Computer Science 64 (2015): 635-642.&lt;/p&gt;
+&lt;p&gt;[14] Medina-López, Cristóbal, et al. &amp;laquo;IPTV using P2PSP and HTML5+ WebRTC.&amp;laquo;The Fourth W3C Web and TV Workshop, Munchen, Germany. 2014.&lt;/p&gt;
+&lt;p&gt;[15] Xiao-liang, Zhu, et al. &amp;laquo;Architecture and design of education IPTV for E-learning in Rural Area.&amp;raquo; 2008 IEEE International Symposium on IT in Medicine and Education. 2008.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

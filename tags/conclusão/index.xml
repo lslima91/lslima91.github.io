@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conclusão on IPTV CAV 2015/2016</title>
+    <link>http://www.example.com/tags/conclus%C3%A3o/</link>
+    <description>Recent content in Conclusão on IPTV CAV 2015/2016</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</managingEditor>
+    <webMaster>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</webMaster>
+    <copyright>(c) 2015 IPTV - CAV.</copyright>
+    <lastBuildDate>Mon, 07 Dec 2015 20:47:35 +0000</lastBuildDate>
+    <atom:link href="http://www.example.com/tags/conclus%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Conclusão</title>
+      <link>http://www.example.com/2015/12/07/conclus%C3%A3o/</link>
+      <pubDate>Mon, 07 Dec 2015 20:47:35 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/conclus%C3%A3o/</guid>
+      <description>&lt;p&gt;Neste artigo descreve-se de forma breve as motivações por detrás da IPTV, contexto histórico, situação nacional e global, desenvolvimentos, aspectos legais e sociais e faz-se também uma análise das principais tecnologias usadas em IPTV. Com isto, algumas conclusões podem ser tiradas: a IPTV surgiu numa altura em que a interactividade em televisão era muito desejada, vindo colmatar essa falta de interactividade entre utilizador e televisão e apesar de já ter surgido há uns anos, o seu mercado continua em crescimento, esperando-se que continue a crescer nos próximos anos.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

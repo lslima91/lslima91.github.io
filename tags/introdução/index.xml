@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introdução on IPTV CAV 2015/2016</title>
+    <link>http://www.example.com/tags/introdu%C3%A7%C3%A3o/</link>
+    <description>Recent content in Introdução on IPTV CAV 2015/2016</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</managingEditor>
+    <webMaster>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</webMaster>
+    <copyright>(c) 2015 IPTV - CAV.</copyright>
+    <lastBuildDate>Mon, 07 Dec 2015 17:31:24 +0000</lastBuildDate>
+    <atom:link href="http://www.example.com/tags/introdu%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introdução</title>
+      <link>http://www.example.com/2015/12/07/introdu%C3%A7%C3%A3o/</link>
+      <pubDate>Mon, 07 Dec 2015 17:31:24 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/introdu%C3%A7%C3%A3o/</guid>
+      <description>&lt;p&gt;&lt;h2&gt;Motivação e Objectivos&lt;/h2&gt;
+&lt;p&gt;O avanço tecnológico promove o aparecimento de serviços com capacidade de interacção com o utilizador, cada vez maior, quer em termos de lazer, quer em termos informativos. A evolução das redes &lt;em&gt;Internet Protocol&lt;/em&gt; (IP) incentivou o desenvolvimento da IPTV, cujo fluxo de conteúdo televisivo, transmitido digitalmente via IP, é iniciado e controlado pelo utilizador. A liberdade associada a este facto justifica o sucesso deste serviço, quando comparado a outros produtos/pacotes de operadoras, bem como a criação de pacotes que incluíssem televisão, internet e telefone digital, com fios (&lt;em&gt;triple-play&lt;/em&gt;) e, também, sem fios (&lt;em&gt;quadruple-play&lt;/em&gt;).
+O objectivo deste artigo é fazer uma análise detalhada a alguns aspectos deste sistema e encontrar a situação nacional e global, assim como desenvolvimentos futuros e o seu contexto legal e social.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Definição de IPTV&lt;/h2&gt;
+&lt;p&gt;IPTV é a distribuição de programação de fluxo de vídeo codificado como uma série de pacotes IP. Esta distribuição é realizada por um fornecedor de serviços, cujo conteúdo pode ser apresentado como TV ao vivo ou vídeo armazenado. Ao contrário da televisão tradicional, a IPTV envia um programa de cada vez, cujo conteúdo permanece armazenado na rede do prestador de serviços, de onde é enviado, para casa do cliente, apenas o programa que o mesmo selecionou. Quando o utilizador muda de canal, um novo fluxo é transmitido directamente para o observador, a partir do servidor do fornecedor. Tal como a TV por cabo, a IPTV também necessita de uma set-top box (STB) &lt;a href=&#34;http://searchtelecom.techtarget.com/definition/IPTV&#34;&gt;[1]&lt;/a&gt;.
+A Internet TV (ITV) beneficia da Internet pública para entregar o conteúdo de vídeo ao consumidor final, não existindo qualquer tipo de certificação para gestão de direitos de autor, já a IPTV, usa redes privadas para entregar conteúdo televisivo aos utilizadores, sendo estas redes monitorizadas pela operadora, a qual é responsável por tratar das leis de direitos autorais com o respectivo fornecedor do conteúdo a consumir. O conteúdo proveniente de um sistema com IPTV apresenta maior qualidade, confiança e experiência de visualização, enquanto os atributos da media, utilizando a Internet (incluindo o caso em que o conteúdo é gerado pelo utilizador – Web TV), estão sujeitos a atrasos devido à menor largura de banda, a um tráfego elevado ou a uma má qualidade de ligação.
+Tal como já foi referido, é necessário uma STB digital para aceder e descodificar o respectivo conteúdo através de um serviço de IPTV, sendo que, para aceder conteúdos televisivos por Internet, é utilizado um PC &lt;a href=&#34;https://www.quora.com/What-is-the-difference-between-IPTV-and-Internet-TV&#34;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em comparação, os serviços de vídeo OTT (Over-The-Top) usam a Internet acessível ao público para fornecer streams de vídeo, cujo conteúdo está disponível via set-top boxes, bem como através de qualquer dispositivo que tenha acesso à Internet, tais como telefones, tablets e TVs inteligentes com uma ligação de banda larga &lt;a href=&#34;https://www.quora.com/Internet-Television/Whats-the-difference-between-IPTV-and-OTT&#34;&gt;[3]&lt;/a&gt;. A tabela seguinte apresenta as principais diferenças entre os serviços de IPTV e OTT.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/style&gt;&lt;table class=&#34;tableizer-table&#34;&gt;
+&lt;tr class=&#34;tableizer-firstrow&#34;&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;OTT&lt;/th&gt;&lt;th&gt;IPTV&lt;/th&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Transmissão de Conteúdo&lt;/td&gt;&lt;td&gt;Open Internet e rede não-gerida.&lt;/td&gt;&lt;td&gt;Rede gerida e dedicada.&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Categoria do Serviço&lt;/td&gt;&lt;td&gt;Serviço Complementar.&lt;/td&gt;&lt;td&gt;Serviço principal, semelhante ao da TV por Cabo/Satélite&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Tipo de Rede&lt;/td&gt;&lt;td&gt;Entrega dos conteúdos do fornecedor ao utilizador, via Open Internet.&lt;/td&gt;&lt;td&gt;Rede privada, com acesso via Internet Service Provider (ISP).&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Propriedade da Rede&lt;/td&gt;&lt;td&gt;Sem necessidade de investimento em infraestruturas.&lt;/td&gt;&lt;td&gt;Rede optimizada e personalizada, de elevada largura de banda.&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Qualidade de Serviço (QOS)&lt;/td&gt;&lt;td&gt;Não garante.&lt;/td&gt;&lt;td&gt;Rede com controlo sobre QoS.&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Topologia de Roteamento&lt;/td&gt;&lt;td&gt;Unicast (HTTP).&lt;/td&gt;&lt;td&gt;Multicast.&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Principais Desafios&lt;/td&gt;&lt;td&gt;Baixa QoS; sem transmissão ao vivo; conteúdo não-premium; distribuição por unicast.&lt;/td&gt;&lt;td&gt;Caro; Forte investimento em infraestrutura e largura de banda.&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Principais Benefícios&lt;/td&gt;&lt;td&gt;Baixo custo; modelo flexível; fácil utilização.&lt;/td&gt;&lt;td&gt;Alta qualidade; serviços de controlo interactivos.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;Referências:&lt;/h4&gt;
+&lt;p&gt;[1]&lt;a href=&#34;http://searchtelecom.techtarget.com/definition/IPTV&#34;&gt;http://searchtelecom.techtarget.com/definition/IPTV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2]&lt;a href=&#34;https://www.quora.com/What-is-the-difference-between-IPTV-and-Internet-TV&#34;&gt;https://www.quora.com/What-is-the-difference-between-IPTV-and-Internet-TV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3]&lt;a href=&#34;https://www.quora.com/Internet-Television/Whats-the-difference-between-IPTV-and-OTT&#34;&gt;https://www.quora.com/Internet-Television/Whats-the-difference-between-IPTV-and-OTT&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

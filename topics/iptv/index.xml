@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iptv on IPTV CAV 2015/2016</title>
+    <link>http://www.example.com/topics/iptv/</link>
+    <description>Recent content in Iptv on IPTV CAV 2015/2016</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</managingEditor>
+    <webMaster>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</webMaster>
+    <copyright>(c) 2015 IPTV - CAV.</copyright>
+    <lastBuildDate>Mon, 07 Dec 2015 20:47:35 +0000</lastBuildDate>
+    <atom:link href="http://www.example.com/topics/iptv/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Conclusão</title>
+      <link>http://www.example.com/2015/12/07/conclus%C3%A3o/</link>
+      <pubDate>Mon, 07 Dec 2015 20:47:35 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/conclus%C3%A3o/</guid>
+      <description>&lt;p&gt;Neste artigo descreve-se de forma breve as motivações por detrás da IPTV, contexto histórico, situação nacional e global, desenvolvimentos, aspectos legais e sociais e faz-se também uma análise das principais tecnologias usadas em IPTV. Com isto, algumas conclusões podem ser tiradas: a IPTV surgiu numa altura em que a interactividade em televisão era muito desejada, vindo colmatar essa falta de interactividade entre utilizador e televisão e apesar de já ter surgido há uns anos, o seu mercado continua em crescimento, esperando-se que continue a crescer nos próximos anos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Desafios actuais e desenvolvimentos futuros</title>
+      <link>http://www.example.com/2015/12/07/desafios-actuais-e-desenvolvimentos-futuros/</link>
+      <pubDate>Mon, 07 Dec 2015 19:57:55 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/desafios-actuais-e-desenvolvimentos-futuros/</guid>
+      <description>&lt;!-- &lt;h2&gt;Desenvolvimentos actuais e desenvolvimentos futuros&lt;/h2&gt; --&gt;
+
+&lt;p&gt;A situação da IPTV a nível mundial encontra-se em crescimento. No entanto, com o aparecimento de tecnologias concorrentes e maiores requisitos por parte dos utilizadores, a constante investigação nesta área continua um aspecto muito importante. De acordo com a literatura existente, os desenvolvimentos na área da IPTV estão divididos em três áreas: IPTV Channel Control and Management, P2P IPTV systems e Technology Assisted Living &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[1]&lt;/a&gt;.
+Em relação a IPTV Channel Control, nesta área procura-se melhorar a QoS/QoE, largura de banda do canal e também encontrar maneiras de reduzir o consumo de energia do sistema IPTV. &lt;br&gt;
+Joo et al. apresentam uma proposta para gerir a largura de banda do canal &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[2]&lt;/a&gt;. Um outro projecto “OptiBand FP7” pretende melhorar a forma como conteúdo HD é distribuido em linhas ADSL &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[4]&lt;/a&gt; também através da optimização da Largura de Banda. O tempo de zapping continua a ser uma área bastante investigada. Neste contexto, C. Cho et al. apresentam uma proposta com vista a melhorar a situação &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[3]&lt;/a&gt;. Relativamente à redução do consumo de energia, Ramos et al. apresentam um modelo de consumo dinâmico de potência &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[5]&lt;/a&gt;.&lt;br&gt;
+Em relação a sistemas P2P (Peer-to-Peer), o método de P2P content delivery aumenta a QoE ajudando a combater a grande carga que as redes encontram na distribuição de vídeo. Hei et al. &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[6]&lt;/a&gt; apresentam resultados a favor do método mesh-pull para P2P streaming. Um outro projecto “OMNeT++” [7] pretende criar uma framework para simulação rápida de sistemas P2P TV. Outro projecto, denominado de projecto “NAPA-WINE” &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[8]&lt;/a&gt; apresenta sugestões para o desenvolvimento de sistemas P2P.
+Uma implementação nova para um sistema P2PSP (peer-to-peer Straightforward Protocol) sobre WebRTC e HTML5 é sugerida por Medina-López, Cristóbal, et al [14].
+Para a área de desenvolvimento Technology Assisted Living, Thang et al. &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[9]&lt;/a&gt; sugerem a possiblidade de se usar sistemas IPTV em caso de acidentes, com um sistema de alerta de duas vias. Uma plataforma sugerida por Mlakar et al. “UMB-SmartTV” &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[10]&lt;/a&gt; combina o sistema de IPTV com tecnologias de reconhecimento de voz e de síntese de fala.&lt;br&gt;
+Existe também investigação focada na monitorização de sinais vitais recorrendo às potencialidades da IPTV &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[11]&lt;/a&gt;. Um outro artigo publicado por Vitor Simões et al. sugere uma aplicação com os mesmos fins &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[13]&lt;/a&gt;.&lt;br&gt;
+O projecto “Vital Mind” visa manter a população idosa activa combinando TV com psicologia cognitiva &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[12]&lt;/a&gt;.
+IPTV entra também na educação, nomeadamente na educação à distância &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[15]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&#34;ref&#34;&gt;&lt;h4&gt;Referências&lt;/h4&gt;&lt;/span&gt;
+&lt;p&gt;[1] Veselinovska, Biljana, Marjan Gusev, and Toni Janevski. &amp;laquo;State of the art in IPTV.&amp;raquo; Information and Communication Technology, Electronics and Microelectronics (MIPRO), 2014 37th International Convention on. IEEE, 2014.&lt;/p&gt;
+&lt;p&gt;[2]  H. Joo, H. Song, D.-B. Lee, and I. Lee, “An effective iptv channel control algorithm considering channel zapping time and network utilization,”Broadcasting, IEEE Transactions on, vol. 54, no. 2, pp. 208–216, 2008.&lt;/p&gt;
+&lt;p&gt;[3]  C. Cho, I. Han, Y. Jun, and H. Lee, “Improvement of channel zapping time in iptv services using the adjacent groups join-leave method,” in The 6th International Conference on Advanced Communication Technology,vol. 2, 2004, pp. 971–975.&lt;/p&gt;
+&lt;p&gt;[4]  OptiBand. (2010). [Online]. Available: &lt;a href=&#34;http://www.optiband-project.eu/&#34;&gt;http://www.optiband-project.eu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[5]  F. Ramos, R. J. Gibbens, F. Song, P. Rodriguez, J. Crowcroft, and I. H. White, “Reducing energy consumption in IPTV networks by selective pre-joining of channels,” in Proceedings of the first ACM SIGCOMM workshop on Green networking. ACM, 2010, pp. 47–52.&lt;/p&gt;
+&lt;p&gt;[6]  X. Hei, C. Liang, J. Liang, Y. Liu, and K. W. Ross, “A measurement study of a large-scale p2p iptv system,” Multimedia, IEEE Transactions on, vol. 9, no. 8, pp. 1672–1687, 2007.&lt;/p&gt;
+&lt;p&gt;[7]  A. Biernacki, “Simulating Performance of a BitTorrent-Based P2P TV System,” in Computer Networks. Springer, 2011, pp. 448–458.&lt;/p&gt;
+&lt;p&gt;[8]  NAPA-WINE. (2013). [Online]. Available: &lt;a href=&#34;http://www.napa-wine.eu/cgi-bin/twiki/view/Public&#34;&gt;http://www.napa-wine.eu/cgi-bin/twiki/view/Public&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[9]  T. C. Thang, A. T. Pham, Z. Cheng, and N. P. Ngoc, “Towards a fullduplex emergency alert system based on IPTV platform,” in Awareness Science and Technology (iCAST), 2011 3rd International Conference on.IEEE, 2011, pp. 536–539.&lt;/p&gt;
+&lt;p&gt;[10] I. Mlakar, Z. Kaˇciˇc, D. Zimˇsek, and M. Rojc, “A novel ims based iptv platform for integrating multimodal technologies,” in Proceedings of the 2013 International Conference on Systems, Control and Informatics, 2013, pp. 364–370.&lt;/p&gt;
+&lt;p&gt;[11] M. Pustiˇsek, E. Stojmenova, L. Zebec, and D. Kervina, “Bringing health telemonitoring into iptv based ami environment,” Previous Publications of the AMEA Association, 2013.&lt;/p&gt;
+&lt;p&gt;[12] Vital Mind. (2011). [Online]. Available: &lt;a href=&#34;http://www.vitalmind-project.eu/&#34;&gt;http://www.vitalmind-project.eu/&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;[13] Ribeiro, Vitor Simões, et al. &amp;laquo;Usability Evaluation of a Health Care Application Based on IPTV.&amp;raquo; Procedia Computer Science 64 (2015): 635-642.&lt;/p&gt;
+&lt;p&gt;[14] Medina-López, Cristóbal, et al. &amp;laquo;IPTV using P2PSP and HTML5+ WebRTC.&amp;laquo;The Fourth W3C Web and TV Workshop, Munchen, Germany. 2014.&lt;/p&gt;
+&lt;p&gt;[15] Xiao-liang, Zhu, et al. &amp;laquo;Architecture and design of education IPTV for E-learning in Rural Area.&amp;raquo; 2008 IEEE International Symposium on IT in Medicine and Education. 2008.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aspectos Legais e Sociais</title>
+      <link>http://www.example.com/2015/12/07/aspectos-legais-e-sociais/</link>
+      <pubDate>Mon, 07 Dec 2015 19:53:35 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/aspectos-legais-e-sociais/</guid>
+      <description>&lt;!-- &lt;h2&gt;Aspectos Legais e Sociais&lt;/h2&gt; --&gt;
+
+&lt;p&gt;Os sistemas de IPTV têm de obedecer a certos aspectos legais, como por exemplo, na aquisição de conteúdos, qualidade de serviço, direitos de propriedade e entidades reguladoras da IPTV.
+Os criadores de conteúdo esperam que os prestadores de serviços garantam uma distribuição segura, com qualidade e respeitando sempre os direitos de autor. Dentro deste ecossistema surgem os agregadores de conteúdo, que têm como função guardar, codificar e reencaminhar os conteúdos multimédia provenientes dos criadores de conteúdo, facilitando a comunicação entre estes últimos e os fornecedores de IPTV. &lt;br&gt;
+Os prestadores de serviços não atribuem o mesmo débito a diferentes conteúdos e canais num dado momento. Este aspecto leva a uma variação da qualidade de serviço. É necessário pois que se estabeleçam relações e acordos entre os criadores de conteúdos e os serviços de IPTV.
+Como já foi referido, para efeitos de competição, alguns prestadores de serviços fazem acordos de exclusividade para certos conteúdos e canais. Esta área involve um estudo dos clientes, de forma a satisfazer e angariar o maior número de subscritores.
+Um dos aspectos muitas vezes esquecido, é do período de fidelização dos serviços de IPTV. Este prazo, com duração normalmente de 24 meses, tem sido muito criticado por entidades como a DECO. Têm surgido propostas dentro do governo, para reduzir este período, de forma a proteger os clientes de mudanças no serviço durante o período de fidalização.&lt;a href=&#34;http://www.publico.pt/economia/noticia/pcp-e-bloco-apoiam-deco-no-ataque-a-fidelizacao-nas-telecomunicacoes-1714738&#34; title=&#34;&#34;&gt;[1]&lt;/a&gt;&lt;br&gt;
+Nos Estados Unidos nos últimos anos surgiu o movimento dos “Cord Cutters”, como resposta aos preços muitas vezes exagerados e limites impostos pelos serviços de IPTV, mas também pelas alternativas existentes no mercado como Netflix e HBO-GO. A luta é tal, que muitos prestadores de serviços sentiram a necessidade de criar planos “basic” com custos reduzidos, de forma a não perder clientes.
+A evolução para sistemas interactivos, mais imersivos e com mais qualidade, torna a experiência televisiva cada vez mais, uma parte importante da nossa vida social.&lt;/p&gt;
+
+&lt;p&gt;[1] &lt;a href=&#34;http://www.publico.pt/economia/noticia/pcp-e-bloco-apoiam-deco-no-ataque-a-fidelizacao-nas-telecomunicacoes-1714738&#34; title=&#34;&#34;&gt;http://www.publico.pt/economia/noticia/pcp-e-bloco-apoiam-deco-no-ataque-a-fidelizacao-nas-telecomunicacoes-1714738&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Situação global da IPTV.</title>
+      <link>http://www.example.com/2015/12/07/situa%C3%A7%C3%A3o-global-da-iptv./</link>
+      <pubDate>Mon, 07 Dec 2015 19:42:44 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/situa%C3%A7%C3%A3o-global-da-iptv./</guid>
+      <description>&lt;!-- &lt;h2&gt;Situação Global&lt;/h2&gt; --&gt;
+
+&lt;p&gt;O número de subscritores de IPTV a nível mundial foi de cerca de 118.7 milhões no segundo quarto de 2015, o que representou um crescimento de 3.6% relativamente ao ano passado. Os 10 países com mais subscritores representam 83.4 % do número do total de subscritores a nível mundial. Dentro deste grupo de países, destacam-se a China, França e Estados Unidos. A maior fornecedora de IPTV a nível mundial continua a ser a China Telecom com 35.9 milhões de subscritores no segundo quarto deste ano, seguida pela Orange (France Telecom), AT&amp;T e Verizon. &lt;a href=&#34;http://www.researchandmarkets.com&#34; title=&#34;The Worldwide IPTV Subscriber Market, 3Q 2015 &#34;&gt;[1]&lt;/a&gt;
+De acordo com a Transparency Market Research &lt;a href=&#34;http://www.iptv-news.com/2015/07/western-europe-to-drive-2014-2020-iptv-growth-at-18-1/&#34;&gt;[2]&lt;/a&gt; a Taxa Composta Anual de Crescimento (TCAC) é de 18.8 % de 2014 a 2020. O valor do mercado de IPTV está previsto chegar aos 79.38 mil milhões de dólares até 2020 &lt;a href=&#34;http://www.iptv-news.com/2015/07/western-europe-to-drive-2014-2020-iptv-growth-at-18-1/&#34;&gt;[2]&lt;/a&gt;. Este crescimento resulta do aumento da procura de canais de alta definição e de serviços de VoD. O mercado Ásia Pacífico está antecipado a ser o que mais irá crescer com um TCAC de 21.1 % para o período de 2014 a 2020. A Índia, a Coreia do Sul e a China serão os líderes nesta região. Com a diminuição dos custos, maiores infraestruturas e penetração de banda larga, a China espera um grande aumento no número de subscritores nos próximos cinco anos &lt;a href=&#34;http://www.iptv-news.com/2015/07/western-europe-to-drive-2014-2020-iptv-growth-at-18-1/&#34;&gt;[2]&lt;/a&gt;. Estas mesmas razões explicam o enorme crescimento da IPTV na Europa de Oeste, que em 2013, representava 38 % da IPTV mundial. Na figura 7 pode observar-se o domínio da Ásia no número de subscritores de IPTV no segundo quarto de 2015.&lt;/p&gt;
+
+&lt;h4&gt;Referências&lt;/h4&gt;
+
+&lt;p&gt;[1]&lt;a href=&#34;http://www.researchandmarkets.com&#34; title=&#34;The Worldwide IPTV Subscriber Market, 3Q 2015 &#34;&gt;http://www.researchandmarkets.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2]&lt;a href=&#34;http://www.iptv-news.com/2015/07/western-europe-to-drive-2014-2020-iptv-growth-at-18-1/&#34;&gt;http://www.iptv-news.com/2015/07/western-europe-to-drive-2014-2020-iptv-growth-at-18-1/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Situação em Portugal</title>
+      <link>http://www.example.com/2015/12/07/situa%C3%A7%C3%A3o-em-portugal/</link>
+      <pubDate>Mon, 07 Dec 2015 19:28:48 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/situa%C3%A7%C3%A3o-em-portugal/</guid>
+      <description>&lt;!-- &lt;h2&gt;Situação em Portugal&lt;/h2&gt; --&gt;
+
+&lt;p&gt;Actualmente, NOS (ZON anteriormente) e MEO têm medido forças para serem líderes de quota de mercado nacional. A diferenciação entre os serviços prestados pelas duas marcas passa pelo acesso a conteúdos, canais e serviços exclusivos. Na figura 6 apresentam-se pacotes de serviços oferecidos por cada um.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/26bCCtx.png&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;&lt;br&gt;
+Figura 6 - Ofertas dos Pacotes Quadruple/Quintuple play (MEO em cima, NOS em baixo)&lt;/p&gt;
+
+&lt;p&gt;O número de subscritores de ofertas em pacotes atingiu os 3,1 milhões, representando um crescimento de 12,7 % face ao mesmo trimestre do ano anterior [1].
+Dentro dos pacotes multiple play, os pacotes mais usados são os triple-play (STF+BLF+TVS), quadruple-play e quintuple-play (BLF+STF+TVS+STM+BLM). De acordo com a ANACOM a modalidade mais utilizada é o triple-play (42,5%), seguido do quintuple play (36,4 %). Esta última modalidade é a que mais tem crescido nos últimos trimestres &lt;a href=&#34;http://www.anacom.pt/render.jsp?contentId=1363443#.Vk5dT_nhCUk&#34;&gt;[1]&lt;/a&gt;. A aposta no quintuple play surge do facto do número de smartphones e tablets ter aumentado significativamente nos últimos anos e de estes representarem uma forma cómoda de consumir internet e televisão.
+Quanto ao número de subscritores, o grupo Altice representa o prestador com maior quota de serviços em pacote (48,8 %), seguido pelo grupos NOS (38,8 %) e Vodafone (12,4 %). O Grupo Altice lidera nas modalidades double play, triple play e quintuple play, enquanto o Grupo NOS lidera no quadruple play. Segundo a ANACOM, isto resultou, em média, numa factura mensal dos agregados familiares de 51,21 euros &lt;a href=&#34;http://www.anacom.pt/render.jsp?contentId=1363443#.Vk5dT_nhCUk&#34;&gt;[1]&lt;/a&gt;. Podem verificar-se estas mesmas informações na tabela 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+    table.tableizer-table {
+    border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.tableizer-table td {
+    padding: 4px;
+    margin: 3px;
+    border: 1px solid #ccc;
+}
+.tableizer-table th {
+    background-color: #104E8B;
+    color: #FFF;
+    font-weight: bold;
+}
+&lt;/style&gt;&lt;table class=&#34;tableizer-table&#34;&gt;
+&lt;tr class=&#34;tableizer-firstrow&#34;&gt;&lt;th&gt; &lt;/th&gt;&lt;th&gt;Multiple play&lt;/th&gt;&lt;th&gt;Double play&lt;/th&gt;&lt;th&gt;Triple play&lt;/th&gt;&lt;th&gt;Quadruple play&lt;/th&gt;&lt;th&gt;Quintuple play&lt;/th&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Grupo Altice&lt;/td&gt;&lt;td&gt;48,8&lt;/td&gt;&lt;td&gt;46,3&lt;/td&gt;&lt;td&gt;43,7&lt;/td&gt;&lt;td&gt;13,5&lt;/td&gt;&lt;td&gt;59,4&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;MEO&lt;/td&gt;&lt;td&gt;42,4&lt;/td&gt;&lt;td&gt;32,8&lt;/td&gt;&lt;td&gt;34,2&lt;/td&gt;&lt;td&gt;13,5&lt;/td&gt;&lt;td&gt;59,4&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Cabovisão&lt;/td&gt;&lt;td&gt;6,4&lt;/td&gt;&lt;td&gt;13,4&lt;/td&gt;&lt;td&gt;9,6&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Onitelecom&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Grupo Nos&lt;/td&gt;&lt;td&gt;38,8&lt;/td&gt;&lt;td&gt;41,7&lt;/td&gt;&lt;td&gt;38&lt;/td&gt;&lt;td&gt;80,9&lt;/td&gt;&lt;td&gt;34,1&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;NOS Comunicações&lt;/td&gt;&lt;td&gt;36,3&lt;/td&gt;&lt;td&gt;39,5&lt;/td&gt;&lt;td&gt;34,5&lt;/td&gt;&lt;td&gt;63,4&lt;/td&gt;&lt;td&gt;34,1&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;NOS Madeira&lt;/td&gt;&lt;td&gt;1,7&lt;/td&gt;&lt;td&gt;1,5&lt;/td&gt;&lt;td&gt;2,1&lt;/td&gt;&lt;td&gt;14,4&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;NOS Açores&lt;/td&gt;&lt;td&gt;0,9&lt;/td&gt;&lt;td&gt;0,8&lt;/td&gt;&lt;td&gt;1,4&lt;/td&gt;&lt;td&gt;3,1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Vodafone&lt;/td&gt;&lt;td&gt;12,4&lt;/td&gt;&lt;td&gt;11,8&lt;/td&gt;&lt;td&gt;18,2&lt;/td&gt;&lt;td&gt;5,6&lt;/td&gt;&lt;td&gt;6,5&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Outros prestadores&lt;/td&gt;&lt;td&gt;0,1&lt;/td&gt;&lt;td&gt;0,2&lt;/td&gt;&lt;td&gt;0,1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;Tabela 2 - Quotas de subscritores de serviços prestados em pacote por modalidade (Unidade: % ) – 2º Trimestre de 2015 (ANACOM)&lt;/p&gt;&lt;/p&gt;
+
+&lt;h4&gt;Referências&lt;/h4&gt;
+
+&lt;p&gt;[1]&lt;a href=&#34;http://www.anacom.pt/render.jsp?contentId=1363443#.Vk5dT_nhCUk&#34; title=&#34;&#34;&gt;&lt;a href=&#34;http://www.anacom.pt/render.jsp?contentId=1363443#.Vk5dT_nhCUk&#34;&gt;http://www.anacom.pt/render.jsp?contentId=1363443#.Vk5dT_nhCUk&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelo de negócios</title>
+      <link>http://www.example.com/2015/12/07/modelo-de-neg%C3%B3cios/</link>
+      <pubDate>Mon, 07 Dec 2015 19:23:39 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/modelo-de-neg%C3%B3cios/</guid>
+      <description>&lt;!-- &lt;h2&gt;Modelo de Negócios&lt;/h2&gt; --&gt;
+
+&lt;p&gt;Nos últimos anos os prestadores de serviços têm vindo a usar um modelo de negócios baseado nos pacotes &lt;em&gt;multiple play&lt;/em&gt;. Estes pacotes podem incluir Serviço Telefónico Fixo (STF), Banda Larga Fixa (BLF), TV por subscrição (TVS), Serviço Telefónico Móvel (STM) e Banda Larga Móvel (BLM). 
+Os prestadores de serviços disponibilizam ainda serviços &lt;em&gt;premium&lt;/em&gt;, como é caso dos serviços de &lt;em&gt;Video On Demand &lt;/em&gt;(VoD), e mais recentemente os serviços de Digital Video Recorder (DVR) e &lt;em&gt;Time Shifting&lt;/em&gt; (com funcionalidades de &lt;em&gt;pause&lt;/em&gt;, &lt;em&gt;fast forward&lt;/em&gt; e &lt;em&gt;rewind&lt;/em&gt;). Além disso, os clientes podem adicionar mais canais aos pacotes base. Para este fim, foram criados os conjuntos de canais temáticos, além da possível compra de canais individuais. A publicidade também veio a sofrer alterações. A IPTV torna possível a análise dos hábitos de consumo dos utilizadores, permitindo aos SP fornecer publicidades com base nos perfis de cada utilizador.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tecnologia</title>
+      <link>http://www.example.com/2015/12/07/tecnologia/</link>
+      <pubDate>Mon, 07 Dec 2015 18:19:45 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/tecnologia/</guid>
+      <description>&lt;!-- &lt;h2&gt;3 Tecnologia&lt;/h2&gt; --&gt;
+
+&lt;p&gt;&lt;h3&gt;1 Arquitectura&lt;/h3&gt;
+&lt;p&gt;A IPTV compreende várias etapas desde a produção do conteúdo até ao utilizador o puder ver. Resumindo, estas etapas são:
+&lt;ul&gt;
+    &lt;li&gt;Armazenamento dos programas;&lt;/li&gt;
+    &lt;li&gt;Preparação dos programas – conversão analógico-digital caso seja preciso, criar pacotes, comprimir/codificar e encriptar;&lt;/li&gt;
+    &lt;li&gt;Transmissão dos programas – por unicast ou grupos de IP multicast, por exemplo.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;Nestas etapas estão envolvidas algumas entidades que vale a pena realçar: os Super Head-End, onde os programas são armazenados e os serviços são coordenados, Video Hub Offices que tratam da distribuição local para as set-top boxes, Content Delivery Networks (CDN’s), que os fornecedores usam para reduzir o tempo de transmissão de conteúdo em longas distâncias (por exemplo, um conteúdo gerado nos Estados Unidos pode ser transmitido para um CDN no Reino Unido, ser aí armazenado e quando um utilizador em Portugal quiser ter acesso ao conteúdo, este obtém-no do CDN). Estão ainda envolvidos vários protocolos e receptores (denominados de set-top boxes, que recebem os pacotes, desencriptam, convertem para vídeo e áudio e apresentam ao utilizador), sendo ambos discutidos posteriormente. Vale ainda salientar que para proporcionar uma boa Quality of Service (QoS) o receptor deve ter uma conexão à Internet com capacidade de 10 a 100 Mbps, razão pela qual a IPTV não surgiu mais cedo.
+Um Super Head-end pode servir milhões de clientes, processando os canais de vídeo comuns a todos os subscritores na sua área de serviço. Um Video Serving Office, por outro lado, está localizado em cada região como seja preciso para lidar com programação local e canais específicos de uma cidade ou área geográfica.&lt;a href=&#34;http://www.asbutc.com/UserFiles/2011-IPTV%20Course%20notes.pdf&#34;&gt;[3]&lt;/a&gt;
+De um Head-end é requerido, fundamentalmente:
+&lt;ul&gt;
+    &lt;li&gt;Escalibidade e flexibilidade;&lt;/li&gt;
+    &lt;li&gt;Codificadores MPEG-4 AVC proporcionando boa qualidade a relativamente baixos débitos;&lt;/li&gt;
+    &lt;li&gt;Reliabilidade ao nível da transmissão;&lt;/li&gt;
+    &lt;li&gt;Capacidade para a complexa gestão necessária;&lt;/li&gt;
+    &lt;li&gt;Integração com os middlewares.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;Os fornecedores de IPTV adquirem os seus conteúdos através de diversas fontes. O objectivo é adquirir e converter os vídeos/áudio recebidos através de inúmeras fontes, incluindo satélite, “off-air”, fibra e outras fontes digitais ou analógicas que incluem uma grande gama de dispositivos.
+À medida que os sinais de vídeo e de áudio são adquiridos, o Head-End processa cada sinal para distribuição. No passado, este processo era relativamente simples, dado que todos os subscritores visualizavam conteúdo no mesmo tipo de dispositivo e com apenas um formato de vídeo. Actualmente, este processo é muito mais complexo, tendo que ter em consideração:
+&lt;ul&gt;
+    &lt;li&gt;A variabilidade de dispositivos em que se visualiza o conteúdo;&lt;/li&gt;
+    &lt;li&gt;A inserção de publicidade local e regional;&lt;/li&gt;
+    &lt;li&gt;As funcionalidades de reprodução (serviços VOD como pausa, play, entre outros);&lt;/li&gt;
+    &lt;li&gt;A codificação de vídeo/áudio.&lt;/li&gt;
+&lt;/ul&gt;
+Umas das principais funções deste Head-End é a codificação de vídeo, porque mesmo quando os fornecedores de conteúdo oferecem excelente aquisição de conteúdo, processamento e gestão, no final, as decisões que fazem na codificação de vídeo determinam a qualidade do serviço IPTV oferecido. Além de terem que oferecer a melhor qualidade de imagem possível, têm que o fazer usando o mínimo de débito (Largura de Banda), usando, por isso, principalmente, o codec vídeo MPEG-4/AVC, que, actualmente e com o codec HEVC/H.265 ainda não totalmente desenvolvido e optimizado, proporciona a mesma qualidade que, por exemplo, MPEG-2 usando até metade do débito.&lt;br&gt;
+A distribuição do conteúdo, canais SDTV (standard definition) ou HDTV (high definition), é feita usando vários dispositivos ao longo da rede, por exemplo, digital subscriber line access multiplexers (DSLAM), e outras tecnologias como fibra a casa do utilizador (oferecido no nosso país pela Vodafone, por exemplo). Estes dispositivos, assim como uma arquitectura resumida em IPTV é apresentada na Figura 1.
+A distribuição dos canais propriamente ditos, é feita através de IP multicast, isto é, surgem grupos de utilizadores a visualizar um canal e o conteúdo é enviado para o grupo que o pretende obter.&lt;br&gt;
+Em relação a factores que afectam o serviço, o principal é o atraso, porque, havendo interatividade, existem dois atrasos (de transmissão e de receção), um envolvendo o pedido do utilizador e outro envolvendo a resposta do servidor; originando, aliado a outros factores como a codificação, por exemplo, um atraso considerável na mudança de canal (ou zapping). Existem no entanto outros factores que podem afectar o serviço, como:
+&lt;ul&gt;
+    &lt;li&gt;Compressão e codificação – já mencionado, envolve, normalmente, um conciliar entre qualidade e o nível de compressão desejado;&lt;/li&gt;
+    &lt;li&gt;Jitter – Variação do tempo de chegada dos pacotes, provocada por congestão na rede. Normalmente necessita de um buffer para suavizar as variações, buffer que pode ter problemas como overflow ou underflow;&lt;/li&gt;
+    &lt;li&gt;Perda de pacotes - podem ocorrer por inúmeras razões como limitação da banda, congestão da rede, falha na ligação ou erros de transmissão.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;Existem ainda dois termos importantes tanto em IPTV como em qualquer serviço de televisão, a Qualidade de Serviço e Qualidade de Experiência.
+A Quality of Service (QoS) é uma ou mais medidas do desempenho e prioridades desejados para o sistema de comunicação em IPTV. Inclui, por exemplo, a disponibilidade do serviço, o máximo de débito de erros de bits, a quantidade de perda de pacotes, os atrasos e a qualidade de transmissão.
+A Quality of Experience (QoE) é uma ou mais medidas da comunicação total e experiência de entretenimento sob a perspectiva dos utilizadores. Inclui, por exemplo, avaliar a qualidade do serviço assistida pelo utilizador, facilidade do serviço, diversidade de conteúdo e aplicações disponíveis e a rapidez/tempo de resposta.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/OZAULbg.png&#34; width=&#34;500&#34; height=&#34;500&#34;&gt;&lt;br&gt;
+Figura 1 – Arquitectura resumida em IPTV &lt;a href=&#34;http://www.irb.hr/users/grubisic/dc-vis/repository/2014/State%20of%20the%20art%20of%20IPTV.pdf&#34;&gt;[1]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;2. Protocolos de transmissão&lt;/h3&gt;
+&lt;p&gt;Existem inúmeros protocolos utilizados e à disposição para IPTV e para os pacotes envolvidos na transmissão do seu conteúdo, mas os principais são UDP, RTP/RTSP e IGMP. Os protocolos utilizados e à disposição podem ser divididos em camadas (até porque existem diversas camadas na transmissão de um pacote, denominadas de Osi Layers).
+Estas camadas dividem-se geralmente em:
+&lt;ul&gt;
+    &lt;li&gt;Camada de Aplicação&lt;/li&gt;
+    &lt;li&gt;Camada de Apresentação&lt;/li&gt;
+    &lt;li&gt;Camada de Sessão – RTP (Real-Time Protocol) e RTSP (Real-Time Streaming Protocol)&lt;/li&gt;
+    &lt;li&gt;Camada de Transporte – TCP (Transmission Control Protocol) ou UDP (User Datagram Protocol)&lt;/li&gt;
+    &lt;li&gt;Camada de rede – Endereços IP e IGMP (IP Group Membership Protocol)&lt;/li&gt;
+    &lt;li&gt;Camada de Ligação de dados e Camada Física – Ethernet e Wi-Fi 802.11&lt;/li&gt;
+&lt;/ul&gt;
+Existem ainda outros protocolos que podem ser utilizados mas que não o são usualmente, como Datagram Congestion Control Protocol (DCCP) &lt;a href=&#34;http://www.academia.edu/7517506/Capacity_Analysis_of_IPTV_over_IEEE_802.11n&#34;&gt;[2]&lt;/a&gt; e TCP Friendly Rate Control (TFRC).
+Em relação aos protocolos mais utilizados, UDP é um protocolo de comunicação que permite que uma aplicação escreva um datagrama encapsulado num pacote IPv4 (utilizando um endereço IP com 32 bits) ou IPv6 (utilizando um endereço IP com 128 bits; surgiu para resolver a escassez de endereços IPv4 mas ainda não é utilizado pela maior parte dos serviços na Internet) e então enviado ao destino. Este protocolo não garante que os pacotes enviados de uma fonte chegam ao destino, é no entanto utilizado em IPTV devido aos requerimentos de baixo atraso. Isto porque TCP garante o envio dos pacotes mas envolve mais mensagens, dado que para o estabelecimento de uma ligação requere mensagens syn, syn+ack e ack, isto é, quase como um hand-shake.
+Para manter o envio em tempo real e garantir algum controlo sobre a transmissão são usados RTP que trata dos streams de áudio e vídeo (muito usado também em Voice over IP ou VoIP) e RTCP para controlar o desempenho da transmissão e garantir a QoS.
+Por fim, IGMP é usado porque, como já foi referido, a distribuição de canais é feita por multicast, sendo utilizado este protocolo para o realizar.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;3. Codecs e standards (áudio, vídeo) e Metadados&lt;/h3&gt;
+&lt;h4&gt;3.1. MPEG-2&lt;/h4&gt;&lt;/p&gt;
+
+&lt;p&gt;Existem dois elementos principais da codificação em MPEG-2, a transformada DCT (Discrete Cosine Transform) e predição inter-frames com compensação de movimento. Cada coeficiente da transformada DCT indica a contribuição de uma combinação particular de frequências espaciais horizontais e verticais para o bloco da imagem original.&lt;br&gt;
+A predição, explora redundância temporal tentando prever o frame a codificar através de um frame anterior (descodificado, dado que o descodificador não tem acesso aos originais).&lt;br&gt;
+Na codificação, cada frame é dividido em macroblocos de 16x16, sobre os quais é aplicada a predição e estimação de movimento (no caso de frames P ou B), depois é subtraída esta predição da imagem original, resultando numa matriz 16x16 com as diferenças. A seguir, o macrobloco é dividido em blocos de 8x8 e para cada bloco é aplicado a transformada DCT, quantizado e utilizado um codificador entrópico.
+MPEG-2 define três tipos de frames: Intra (I) que são codificados sem referência a outros frames, são usados periodicamente para proporcionar pontos de acesso (facilita acesso aleatório) onde a descodificação pode começar; Predictive (P) que podem usar o frame P ou I anterior para compensação de movimento e Bidirectionally-predictive (B) que pode usar o frame I ou P anterior e seguinte, resultando no maior nível de compressão.
+Os diferentes tipos de frames (ou pictures) normalmente repetem-se numa sequência, denominada de Group of Pictures (GOP).&lt;a href=&#34;http://www.digitalpreservation.gov/formats/fdd/fdd000028.shtml&#34;&gt;[5]&lt;/a&gt;
+Apresenta-se de seguida, na figura 2, a arquitectura de funcionamento desta codificação.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/5EXaKub.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+Figura 2 - Diagrama de Blocos MPEG-2 &lt;a href=&#34;http://i564.photobucket.com/albums/ss83/skyjuice88/BlockDiagram.jpg&#34;&gt;[10]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;3.2. MPEG-4&lt;/h3&gt;
+&lt;p&gt;MPEG-4 é uma família de standards internacionais que fornecem ferramentas para a entrega de multimédia. Estas ferramentas incluem excelentes codecs para comprimir áudio, vídeo e rich media.
+O codec de vídeo mais recente do MPEG-4 é o AVC (Advanced Video Codec), também denominado de ITU H.264. Este codec representa grandes desenvolvimentos em codificação de vídeo em relação aos anteriores, oferecendo um débito típico de metade do de MPEG-2 para a mesma qualidade percetível. &lt;a href=&#34;https://www1.ethz.ch/replay/docs/whitepaper_mpegif.pdf&#34;&gt;[4]&lt;/a&gt;&lt;br&gt;
+Em aplicações onde o custo de hardware e questões energéticas fazem com que a implementação de AVC seja difícil, MPEG-4 oferece um perfil simples e avançado simples (Simple e Advanced Simple Profile codecs).&lt;br&gt;
+Estes codecs de vídeo são normalmente usados em conjunto com AAC, o codec de áudio de MPEG-4 que proporciona excelente qualidade de áudio stereo para débitos iguais ou superiores a 128 kbit/s.&lt;br&gt;
+Os fundamentos do MPEG-4 são descritos nas Partes 1, 2, 3  e 10, sendo a Parte 1 os Sistemas, Parte 2 Visual, Parte 3 o Áudio e Parte 10 o Advanced Video Coding.
+Existem, no entanto, muitas mais partes, totalizando mais de vinte, entre elas a Parte 6 (Delivery Multimedia Integration Framework) que define uma interface entre a aplicação e a rede ou armazenamento; a Parte 4 (Conformance) que define como testar uma implementação MPEG-4; a Parte 7 que define um codificador de vídeo optimizado; a Parte 8 que define como preparar MPEG-4 streams para transporte IP; entre muitas outras.&lt;a href=&#34;https://www1.ethz.ch/replay/docs/whitepaper_mpegif.pdf&#34;&gt;[4]&lt;/a&gt; Apresenta-se na Figura 3 a interação entre alguns destes codecs/standards.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/XmznDvy.png&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+Figura 3 – Interação entre MPEG-4 e outros standards &lt;a href=&#34;https://www1.ethz.ch/replay/docs/whitepaper_mpegif.pdf&#34;&gt;[4]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Os standards MPEG-7 e MPEG-21 são ferramentas adicionais que estendem  a funcionalidade do MPEG e interagem, principalmente, com o MPEG-4 para criar novas formas de gerir o conteúdo. Descrições e metadados MPEG-7 podem ser transportados como MPEG-4 streams, e especificações MPEG-21 são criadas para complementar representação de conteúdo MPEG-4.&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;3.3. MPEG-7 e Metadados&lt;/h4&gt;
+Metadados, ou dados sobre dados, são uma das partes mais importantes deste sistema (e de outros semelhantes), principalmente actualmente com a quantidade de conteúdos existente. Estes permitem, por exemplo, a identificação de programas e canais e consequente navegação entre eles. Navegar entre dezenas de canais e centenas de programas disponíveis na set-top box sem metadados seria algo impossível, teria de se verificar sequencialmente o conteúdo de cada um deles, algo impensável com a quantidade existente.&lt;br&gt;
+MPEG-7 é um standard recentemente acabado para descrição de conteúdo multimédia. É usado para indexar, catalogar (identificar), ferramentas de pesquisa, seleção de programas, decisão inteligente sobre conteúdo, entre outros.&lt;br&gt;
+Este standard, ITU-T H.751 ou MPEG-7, fornece mecanismos claros para os fornecedores de conteúdo interpretarem e integrarem informação de direitos/permissões (direitos de autor, por exemplo) e outras informações dos metadados nos conteúdos trocados entre os fornecedores e os receptores. Assim, permite que haja interoperabilidade entre os fornecedores de conteúdos e fabricantes de dispositivos (set-top box, por exemplo) ao nível dos metadados, dado que define claramente, como estes devem ser integrados. &lt;a href=&#34;http://www.tvtechnology.com/cable-satellite-iptv/0149/new-metadata-enables-legal-content-sharing-across-iptv-platforms/237338&#34;&gt;[7]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;3.4. MPEG-21&lt;/h4&gt;
+Este standard define uma “linguagem” que facilita a adaptação dinâmica do conteúdo à rede de transmissão e aos dispositivos de consumo e várias ferramentas para tornar a gestão de direitos digitais mais interoperáveis. Ao gerir o conteúdo e o acesso ao conteúdo, permite interoperabilidade e a portabilidade do conteúdo.&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;3.5. MP3&lt;/h4&gt;
+Este codec, para codificação de audio, é dos mais usados e conhecidos. Isto porque foi (e é) bastante usado para codificar música, que é dos tipos de multimédia mais procurados e mais rentável.&lt;br&gt;
+O MP3 tem origem no nome MPEG-1 Layer 3, que foi uma das ferramentas de codificação criadas pelo MPEG-1, no entanto, quando criado o MPEG-2 foi ainda criado um codec com compatibilidade para o primeiro, apenas com algumas melhorias, isto porque, como já foi referido, existia muitos interesses e muito dinheiro na música em MP3.
+Pode ser usado para codificar um canal de áudio (mono) ou dois (stereo). Para dois canais, pode ser usado para codificar em no joint stereo (cada canal é codificado em separado) ou joint stereo (codificado em conjunto, explorando redundâncias entre os dois). [5]
+É apresentada a arquitectura da codificação em MPEG-1 Layer 3, ou MP3, na Figura 4.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/RrTZgR1.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+Figura 4 – Diagrama de Blocos de MP3 &lt;a href=&#34;http://www.digikey.com/en/articles/techzone/2011/dec/~/media/Images/Article%20Library/TechZone%20Articles/2011/December/Audio%20Coding%20and%20Compression%20for%20Microcontrollers/article-2011december-audio-coding-and-compression-fig1.jpg&#34;&gt;[9]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;3.6. AAC&lt;/h4&gt;
+&lt;p&gt;O codec AAC para audio é visto como uma evolução ao MP3, sendo, no entanto, menos utilizado que o seu predecessor, isto porque quando surgiu já existia na altura uma grande indústria construída à volta do MP3: a música. É no entanto bastante utilizado, principalmente a versão melhorada pelo MPEG-4, aliado com AVC (vídeo).
+Para proporcionar a mesma qualidade a débitos menores que o MP3 foram introduzidas as seguintes alterações:
+&lt;ul&gt;
+    &lt;li&gt;Maior resolução de frequência (espectral);&lt;/li&gt;
+    &lt;li&gt;Predição – Uma predição para trás opcional;&lt;/li&gt;
+    &lt;li&gt;Melhor codificação joint stereo;&lt;/li&gt;
+    &lt;li&gt;Melhor codificação de Huffman (entrópica).&lt;/li&gt;
+&lt;/ul&gt;
+Introduziram-se ainda algumas alterações de maneira a proporcionar melhor qualidade:
+&lt;ul&gt;
+    &lt;li&gt;Melhor switching de blocos – Em vez do banco de filtros híbrido (em cascata) do MP3, o codec AAC usa um banco de filtros com uma variação de MDCT (Modified Discrete Cosine Transform);&lt;/li&gt;
+    &lt;li&gt;Temporal Noise Shaping (TNS) – Esta técnica molda o ruído no domínio do tempo fazendo um loop aberto no domínio da frequência.
+Com estas pequenas alterações, AAC consegue atingir, em média, a mesma qualidade que MP3 com cerca de 70% do débito binário.&lt;a href=&#34;https://graphics.ethz.ch/teaching/mmcom12/slides/mp3_and_aac_brandenburg.pdf&#34;&gt;[6]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;4. Interfaces&lt;/h3&gt;
+&lt;p&gt;Em termos de interfaces pode definir-se dois tipos: as interfaces envolvidas na transmissão, como routers, servidores, set-top boxes e outras e a interface de utilizador, que é responsável por apresentar uma maneira do utilizador interagir com o sistema (seleccionar o canal ou programa que deseja visualizar, por exemplo).
+A interface de utilizador é uma parte fundamental, não só em IPTV, mas em todos os sistemas que envolvam interação com o utilizador do serviço. Com o surgimento da IPTV e de serviços de televisão com cada vez mais interação do utilizador, o surgimento de uma interface foi algo inevitável de forma a aumentar a Quality of Experience. Esta interface deve ser simples, limpa mas  apelativa e funcional, isto é, as funcionalidades e a sua exploração devem ser apresentadas de modo a serem acessíveis à maioria dos utilizadores e ao mesmo tempo, deve ser uma interface com aspecto agradável.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/K2zl7CQ.jpg&#34; &gt; &lt;br&gt;
+Figura 5 – Interface da Apple TV &lt;a href=&#34;http://i.i.cbsi.com/cnwk.1d/i/tim/2012/03/07/overview_ui_screen.jpg&#34;&gt;[8]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Do outro tipo de interface, no âmbito deste artigo, aprofunda-se apenas a Set-top box.
+Uma IP set-top box é um dispositivo que serve de interface entre a rede (por onde é transmitido o sinal) e a televisão (ou aparelho onde se visualize os programas).
+Além de descodificar e apresentar os programas de televisão, uma set-top box fornece várias funcionalidades como video-on-demand (VOD), guia electrónico de programas (EPG), gestão de direitos digitais (DRM, envolvendo direitos de acesso, direitos de autor e semelhantes), navegação no tempo de programa (ver programas passados, andar para trás e para a frente num dado programa, etc.), personalização (definir favoritos, por exemplo) e diversos outros serviços interactivos e multimédia. Estes serviços podem incluir, por exemplo, navegação na Internet, e-mail, conectividade ao computador (reproduzir fotos, vídeos ou músicas guardados no PC), Instant Messaging (IM) ou Voice over IP (VoIP).&lt;a href=&#34;http://www.asbutc.com/UserFiles/2011-IPTV%20Course%20notes.pdf&#34;&gt;[3]&lt;/a&gt;
+
+Para permitir estas funcionalidades e serviços a set-top box possui alguns elementos:
+&lt;ul&gt;
+    &lt;li&gt;Uma interface de rede – para receber os sinais IPTV e enviar os comandos do utilizador;&lt;/li&gt;
+    &lt;li&gt;Saídas de vídeo e de áudio – para apresentar ao utilizador, através de uma televisão por exemplo;&lt;/li&gt;
+    &lt;li&gt;Interface de utilizador – para permitir interatividade;&lt;/li&gt;
+    &lt;li&gt;Software/Hardware de acesso condicional – para permitir a visualização de conteúdo seguro e ao qual pode ter acesso;&lt;/li&gt;
+    &lt;li&gt;Disco rígido – para gravar diversos programas.&lt;/li&gt; 
+&lt;/ul&gt;
+De seguida, apresentam-se exemplos de set-top boxes e fabricantes destes dispositivos: &lt;a href=&#34;http://www.irb.hr/users/grubisic/dc-vis/repository/2014/State%20of%20the%20art%20of%20IPTV.pdf&#34;&gt;[1]&lt;/a&gt;
+&lt;ul&gt;
+    &lt;li&gt;Apple TV (IOS iPad, iPhone)&lt;/li&gt;
+    &lt;li&gt;Google Chromecast (Android)&lt;/li&gt;
+    &lt;li&gt;Roku&lt;/li&gt;
+    &lt;li&gt;Netgear&lt;/li&gt;
+    &lt;li&gt;Bravia (Sony Smart TV)&lt;/li&gt;
+    &lt;li&gt;Samsung&lt;/li&gt;
+    &lt;li&gt;etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;5. Controlo de Acesso&lt;/h3&gt;
+&lt;p&gt;A encriptação de vídeo e áudio é uma das tecnologias de controlo mais importantes visto que, desta maneira, é possível fornecer ligações seguras e proteger o respectivo conteúdo contra modificações inesperadas por agentes alheios. A encriptação é, por isso, o primeiro passo a realizar, cuja acção resulta numa codificação sistemática de um dado troço de vídeo e áudio, indecifrável a qualquer um que não possua a chave necessária para o desencriptar. A desencriptação trata-se do processo inverso, isto é, utilizando a mesma chave usada para a codificação (encriptação simétrica) ou correspondente (encriptação assimétrica), descodifica-se o conteúdo codificado, de modo a produzir uma cópia exacta do sinal original.&lt;br&gt;
+Smart Cards é uma das soluções para controlo da distribuição de chaves para as STB’s. Estes cartões são referidos como “smart” devido ao facto de serem constituídos por um processador e uma memória, que conseguem ser utilizados em várias aplicações. &lt;br&gt;
+Cada canal de televisão possui uma chave única de descrição, a qual é criada quando o conteúdo é preparado para broadcast. Quando um utilizador autorizado deseja assistir a um dado conteúdo codificado, o seu dispositivo envia um request para o servidor central. Este servidor certifica-se de que o utilizador é autorizado a visualizar o conteúdo. Caso seja, o servidor localiza a chave de descodificação correcta para o respectivo conteúdo e encripta-o, utilizando a chave pública referente ao smart card do utilizador. Em seguida, o servidor envia a chave de descodificação encriptada para o dispositivo do utilizador via communication path. Quando esta chega, a chave encriptada é cedida ao respectivo smart card, o qual é responsável pelo processo de desencriptação (utilizando a sua chave privada, correspondente à chave pública que o servidor utilizou). Por fim, a STB do utilizador usa a chave de descodificação desencriptada, de modo a processar o sinal de entrada e possibilitar a reprodução do conteúdo para o utilizador.&lt;br&gt;
+Digital Rights Management System (DRM), já mencionado anteriormente, é desenvolvido para proteger os direitos proprietários de um conteúdo, de um dado utilizador. Este sistema envolve uma forma de encriptação ou codificação que processa o conteúdo para não ser acessível sem a chave necessária. Um sistema DRM é também responsável por entregar, com segurança, as devidas chaves para as respectivas STB’s dos utilizadores autorizados. Estas chaves possibilitam uma reprodução correcta das streams à entrada das respectivas STB’s. A distribuição correcta de chaves deve ser assegurada de modo a prevenir a sua obtenção, quer seja intencional, quer seja não-intencional, por parte de utilizadores não autorizados &lt;a href=&#34;http://www.asbutc.com/UserFiles/2011-IPTV%20Course%20notes.pdf&#34;&gt;[3]&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;Referências:&lt;/h4&gt;
+[1]&lt;a href=&#34;http://www.irb.hr/users/grubisic/dc-vis/repository/2014/State%20of%20the%20art%20of%20IPTV.pdf&#34;&gt;http://www.irb.hr/users/grubisic/dc-vis/repository/2014/State%20of%20the%20art%20of%20IPTV.pdf&lt;/a&gt;
+[2]&lt;a href=&#34;http://www.academia.edu/7517506/Capacity_Analysis_of_IPTV_over_IEEE_802.11n&#34;&gt;http://www.academia.edu/7517506/Capacity_Analysis_of_IPTV_over_IEEE_802.11n&lt;/a&gt;
+[3]&lt;a href=&#34;http://www.asbutc.com/UserFiles/2011-IPTV%20Course%20notes.pdf&#34;&gt;http://www.asbutc.com/UserFiles/2011-IPTV%20Course%20notes.pdf&lt;/a&gt;
+[4]&lt;a href=&#34;https://www1.ethz.ch/replay/docs/whitepaper_mpegif.pdf&#34;&gt;https://www1.ethz.ch/replay/docs/whitepaper_mpegif.pdf&lt;/a&gt;
+[5]&lt;a href=&#34;http://www.digitalpreservation.gov/formats/fdd/fdd000028.shtml&#34;&gt;http://www.digitalpreservation.gov/formats/fdd/fdd000028.shtml&lt;/a&gt;
+[6]&lt;a href=&#34;https://graphics.ethz.ch/teaching/mmcom12/slides/mp3_and_aac_brandenburg.pdf&#34;&gt;https://graphics.ethz.ch/teaching/mmcom12/slides/mp3_and_aac_brandenburg.pdf&lt;/a&gt;
+[7]&lt;a href=&#34;http://www.tvtechnology.com/cable-satellite-iptv/0149/new-metadata-enables-legal-content-sharing-across-iptv-platforms/237338&#34;&gt;http://www.tvtechnology.com/cable-satellite-iptv/0149/new-metadata-enables-legal-content-sharing-across-iptv-platforms/237338&lt;/a&gt;&lt;br&gt;
+[8]&lt;a href=&#34;http://i.i.cbsi.com/cnwk.1d/i/tim/2012/03/07/overview_ui_screen.jpg&#34;&gt;http://i.i.cbsi.com/cnwk.1d/i/tim/2012/03/07/overview_ui_screen.jpg&lt;/a&gt;
+[9]&lt;a href=&#34;http://www.digikey.com/en/articles/techzone/2011/dec/~/media/Images/Article%20Library/TechZone%20Articles/2011/December/Audio%20Coding%20and%20Compression%20for%20Microcontrollers/article-2011december-audio-coding-and-compression-fig1.jpg&#34;&gt;http://www.digikey.com/en/articles/techzone/2011/dec/~/media/Images/Article%20Library/...&lt;/a&gt;
+[10]&lt;a href=&#34;http://i564.photobucket.com/albums/ss83/skyjuice88/BlockDiagram.jpg&#34;&gt;http://i564.photobucket.com/albums/ss83/skyjuice88/BlockDiagram.jpg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolução histórica</title>
+      <link>http://www.example.com/2015/12/07/evolu%C3%A7%C3%A3o-hist%C3%B3rica/</link>
+      <pubDate>Mon, 07 Dec 2015 18:12:45 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/evolu%C3%A7%C3%A3o-hist%C3%B3rica/</guid>
+      <description>&lt;p&gt;&lt;!-- &lt;h2&gt;Evolução histórica&lt;/h2&gt;
+ --&gt;&lt;p&gt;Em 1994 a ABC’s World News Now criou a transmissão de conteúdos televisivos através de redes de Internet, tendo sido em 1995 que Judith Estrin e Bill Carrico conceberam e patentearam o conceito de IPTV, os quais, posteriormente, criaram a empresa Percept Softwares &lt;a href=&#34;http://www.springer.com/us/book/9780387799773 &#34;&gt;[1]&lt;/a&gt;. Esta empresa é comprada, em 1998 pela ainda hoje beneficiária da patente IPTV, a Cisco Systems &lt;a href=&#34;http://www.google.tl/patents/US8544051&#34;&gt;[2]&lt;/a&gt;. Esta tecnologia começou a ser desenvolvida em Portugal, em meados do ano de 2000, no entanto apenas apareceu no mercado Português, em 2006, através da empresa Clix. Em 2007 aparece o MEO, cujo serviço é fornecido pela Portugal Telecom (PT). Mais tarde, em 2009, a Vodafone lança o seu serviço Vodafone Casa. Por último veio a Iris da ZON, que adicionou IPTV ao seu pacote triple play já existente. Empresa que depois de se ter fundido com a Optimus, em Maio de 2014, tem o nome de NOS. &lt;a href=&#34;https://pt.wikipedia.org/wiki/NOS_(operadora)&#34;&gt;[3]&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;Referências:&lt;/h4&gt;
+&lt;p&gt;[1]&lt;a href=&#34;http://www.springer.com/us/book/9780387799773 &#34;&gt;&lt;a href=&#34;http://www.springer.com/us/book/9780387799773&#34;&gt;http://www.springer.com/us/book/9780387799773&lt;/a&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2]&lt;a href=&#34;http://www.google.tl/patents/US8544051&#34;&gt;&lt;a href=&#34;http://www.google.tl/patents/US8544051&#34;&gt;http://www.google.tl/patents/US8544051&lt;/a&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3]&lt;a href=&#34;https://pt.wikipedia.org/wiki/NOS_(operadora)&#34;&gt;https://pt.wikipedia.org/wiki/NOS_(operadora)&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introdução</title>
+      <link>http://www.example.com/2015/12/07/introdu%C3%A7%C3%A3o/</link>
+      <pubDate>Mon, 07 Dec 2015 17:31:24 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/introdu%C3%A7%C3%A3o/</guid>
+      <description>&lt;p&gt;&lt;h2&gt;Motivação e Objectivos&lt;/h2&gt;
+&lt;p&gt;O avanço tecnológico promove o aparecimento de serviços com capacidade de interacção com o utilizador, cada vez maior, quer em termos de lazer, quer em termos informativos. A evolução das redes &lt;em&gt;Internet Protocol&lt;/em&gt; (IP) incentivou o desenvolvimento da IPTV, cujo fluxo de conteúdo televisivo, transmitido digitalmente via IP, é iniciado e controlado pelo utilizador. A liberdade associada a este facto justifica o sucesso deste serviço, quando comparado a outros produtos/pacotes de operadoras, bem como a criação de pacotes que incluíssem televisão, internet e telefone digital, com fios (&lt;em&gt;triple-play&lt;/em&gt;) e, também, sem fios (&lt;em&gt;quadruple-play&lt;/em&gt;).
+O objectivo deste artigo é fazer uma análise detalhada a alguns aspectos deste sistema e encontrar a situação nacional e global, assim como desenvolvimentos futuros e o seu contexto legal e social.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Definição de IPTV&lt;/h2&gt;
+&lt;p&gt;IPTV é a distribuição de programação de fluxo de vídeo codificado como uma série de pacotes IP. Esta distribuição é realizada por um fornecedor de serviços, cujo conteúdo pode ser apresentado como TV ao vivo ou vídeo armazenado. Ao contrário da televisão tradicional, a IPTV envia um programa de cada vez, cujo conteúdo permanece armazenado na rede do prestador de serviços, de onde é enviado, para casa do cliente, apenas o programa que o mesmo selecionou. Quando o utilizador muda de canal, um novo fluxo é transmitido directamente para o observador, a partir do servidor do fornecedor. Tal como a TV por cabo, a IPTV também necessita de uma set-top box (STB) &lt;a href=&#34;http://searchtelecom.techtarget.com/definition/IPTV&#34;&gt;[1]&lt;/a&gt;.
+A Internet TV (ITV) beneficia da Internet pública para entregar o conteúdo de vídeo ao consumidor final, não existindo qualquer tipo de certificação para gestão de direitos de autor, já a IPTV, usa redes privadas para entregar conteúdo televisivo aos utilizadores, sendo estas redes monitorizadas pela operadora, a qual é responsável por tratar das leis de direitos autorais com o respectivo fornecedor do conteúdo a consumir. O conteúdo proveniente de um sistema com IPTV apresenta maior qualidade, confiança e experiência de visualização, enquanto os atributos da media, utilizando a Internet (incluindo o caso em que o conteúdo é gerado pelo utilizador – Web TV), estão sujeitos a atrasos devido à menor largura de banda, a um tráfego elevado ou a uma má qualidade de ligação.
+Tal como já foi referido, é necessário uma STB digital para aceder e descodificar o respectivo conteúdo através de um serviço de IPTV, sendo que, para aceder conteúdos televisivos por Internet, é utilizado um PC &lt;a href=&#34;https://www.quora.com/What-is-the-difference-between-IPTV-and-Internet-TV&#34;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em comparação, os serviços de vídeo OTT (Over-The-Top) usam a Internet acessível ao público para fornecer streams de vídeo, cujo conteúdo está disponível via set-top boxes, bem como através de qualquer dispositivo que tenha acesso à Internet, tais como telefones, tablets e TVs inteligentes com uma ligação de banda larga &lt;a href=&#34;https://www.quora.com/Internet-Television/Whats-the-difference-between-IPTV-and-OTT&#34;&gt;[3]&lt;/a&gt;. A tabela seguinte apresenta as principais diferenças entre os serviços de IPTV e OTT.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/style&gt;&lt;table class=&#34;tableizer-table&#34;&gt;
+&lt;tr class=&#34;tableizer-firstrow&#34;&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;OTT&lt;/th&gt;&lt;th&gt;IPTV&lt;/th&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Transmissão de Conteúdo&lt;/td&gt;&lt;td&gt;Open Internet e rede não-gerida.&lt;/td&gt;&lt;td&gt;Rede gerida e dedicada.&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Categoria do Serviço&lt;/td&gt;&lt;td&gt;Serviço Complementar.&lt;/td&gt;&lt;td&gt;Serviço principal, semelhante ao da TV por Cabo/Satélite&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Tipo de Rede&lt;/td&gt;&lt;td&gt;Entrega dos conteúdos do fornecedor ao utilizador, via Open Internet.&lt;/td&gt;&lt;td&gt;Rede privada, com acesso via Internet Service Provider (ISP).&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Propriedade da Rede&lt;/td&gt;&lt;td&gt;Sem necessidade de investimento em infraestruturas.&lt;/td&gt;&lt;td&gt;Rede optimizada e personalizada, de elevada largura de banda.&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Qualidade de Serviço (QOS)&lt;/td&gt;&lt;td&gt;Não garante.&lt;/td&gt;&lt;td&gt;Rede com controlo sobre QoS.&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Topologia de Roteamento&lt;/td&gt;&lt;td&gt;Unicast (HTTP).&lt;/td&gt;&lt;td&gt;Multicast.&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Principais Desafios&lt;/td&gt;&lt;td&gt;Baixa QoS; sem transmissão ao vivo; conteúdo não-premium; distribuição por unicast.&lt;/td&gt;&lt;td&gt;Caro; Forte investimento em infraestrutura e largura de banda.&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Principais Benefícios&lt;/td&gt;&lt;td&gt;Baixo custo; modelo flexível; fácil utilização.&lt;/td&gt;&lt;td&gt;Alta qualidade; serviços de controlo interactivos.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;Referências:&lt;/h4&gt;
+&lt;p&gt;[1]&lt;a href=&#34;http://searchtelecom.techtarget.com/definition/IPTV&#34;&gt;http://searchtelecom.techtarget.com/definition/IPTV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2]&lt;a href=&#34;https://www.quora.com/What-is-the-difference-between-IPTV-and-Internet-TV&#34;&gt;https://www.quora.com/What-is-the-difference-between-IPTV-and-Internet-TV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3]&lt;a href=&#34;https://www.quora.com/Internet-Television/Whats-the-difference-between-IPTV-and-OTT&#34;&gt;https://www.quora.com/Internet-Television/Whats-the-difference-between-IPTV-and-OTT&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

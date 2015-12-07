@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social on IPTV CAV 2015/2016</title>
+    <link>http://www.example.com/tags/social/</link>
+    <description>Recent content in Social on IPTV CAV 2015/2016</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</managingEditor>
+    <webMaster>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</webMaster>
+    <copyright>(c) 2015 IPTV - CAV.</copyright>
+    <lastBuildDate>Mon, 07 Dec 2015 19:53:35 +0000</lastBuildDate>
+    <atom:link href="http://www.example.com/tags/social/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aspectos Legais e Sociais</title>
+      <link>http://www.example.com/2015/12/07/aspectos-legais-e-sociais/</link>
+      <pubDate>Mon, 07 Dec 2015 19:53:35 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/aspectos-legais-e-sociais/</guid>
+      <description>&lt;!-- &lt;h2&gt;Aspectos Legais e Sociais&lt;/h2&gt; --&gt;
+
+&lt;p&gt;Os sistemas de IPTV têm de obedecer a certos aspectos legais, como por exemplo, na aquisição de conteúdos, qualidade de serviço, direitos de propriedade e entidades reguladoras da IPTV.
+Os criadores de conteúdo esperam que os prestadores de serviços garantam uma distribuição segura, com qualidade e respeitando sempre os direitos de autor. Dentro deste ecossistema surgem os agregadores de conteúdo, que têm como função guardar, codificar e reencaminhar os conteúdos multimédia provenientes dos criadores de conteúdo, facilitando a comunicação entre estes últimos e os fornecedores de IPTV. &lt;br&gt;
+Os prestadores de serviços não atribuem o mesmo débito a diferentes conteúdos e canais num dado momento. Este aspecto leva a uma variação da qualidade de serviço. É necessário pois que se estabeleçam relações e acordos entre os criadores de conteúdos e os serviços de IPTV.
+Como já foi referido, para efeitos de competição, alguns prestadores de serviços fazem acordos de exclusividade para certos conteúdos e canais. Esta área involve um estudo dos clientes, de forma a satisfazer e angariar o maior número de subscritores.
+Um dos aspectos muitas vezes esquecido, é do período de fidelização dos serviços de IPTV. Este prazo, com duração normalmente de 24 meses, tem sido muito criticado por entidades como a DECO. Têm surgido propostas dentro do governo, para reduzir este período, de forma a proteger os clientes de mudanças no serviço durante o período de fidalização.&lt;a href=&#34;http://www.publico.pt/economia/noticia/pcp-e-bloco-apoiam-deco-no-ataque-a-fidelizacao-nas-telecomunicacoes-1714738&#34; title=&#34;&#34;&gt;[1]&lt;/a&gt;&lt;br&gt;
+Nos Estados Unidos nos últimos anos surgiu o movimento dos “Cord Cutters”, como resposta aos preços muitas vezes exagerados e limites impostos pelos serviços de IPTV, mas também pelas alternativas existentes no mercado como Netflix e HBO-GO. A luta é tal, que muitos prestadores de serviços sentiram a necessidade de criar planos “basic” com custos reduzidos, de forma a não perder clientes.
+A evolução para sistemas interactivos, mais imersivos e com mais qualidade, torna a experiência televisiva cada vez mais, uma parte importante da nossa vida social.&lt;/p&gt;
+
+&lt;p&gt;[1] &lt;a href=&#34;http://www.publico.pt/economia/noticia/pcp-e-bloco-apoiam-deco-no-ataque-a-fidelizacao-nas-telecomunicacoes-1714738&#34; title=&#34;&#34;&gt;http://www.publico.pt/economia/noticia/pcp-e-bloco-apoiam-deco-no-ataque-a-fidelizacao-nas-telecomunicacoes-1714738&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

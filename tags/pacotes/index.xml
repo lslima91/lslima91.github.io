@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pacotes on IPTV CAV 2015/2016</title>
+    <link>http://www.example.com/tags/pacotes/</link>
+    <description>Recent content in Pacotes on IPTV CAV 2015/2016</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</managingEditor>
+    <webMaster>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</webMaster>
+    <copyright>(c) 2015 IPTV - CAV.</copyright>
+    <lastBuildDate>Mon, 07 Dec 2015 19:28:48 +0000</lastBuildDate>
+    <atom:link href="http://www.example.com/tags/pacotes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Situação em Portugal</title>
+      <link>http://www.example.com/2015/12/07/situa%C3%A7%C3%A3o-em-portugal/</link>
+      <pubDate>Mon, 07 Dec 2015 19:28:48 +0000</pubDate>
+      <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
+      <guid>http://www.example.com/2015/12/07/situa%C3%A7%C3%A3o-em-portugal/</guid>
+      <description>&lt;!-- &lt;h2&gt;Situação em Portugal&lt;/h2&gt; --&gt;
+
+&lt;p&gt;Actualmente, NOS (ZON anteriormente) e MEO têm medido forças para serem líderes de quota de mercado nacional. A diferenciação entre os serviços prestados pelas duas marcas passa pelo acesso a conteúdos, canais e serviços exclusivos. Na figura 6 apresentam-se pacotes de serviços oferecidos por cada um.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/26bCCtx.png&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;&lt;br&gt;
+Figura 6 - Ofertas dos Pacotes Quadruple/Quintuple play (MEO em cima, NOS em baixo)&lt;/p&gt;
+
+&lt;p&gt;O número de subscritores de ofertas em pacotes atingiu os 3,1 milhões, representando um crescimento de 12,7 % face ao mesmo trimestre do ano anterior [1].
+Dentro dos pacotes multiple play, os pacotes mais usados são os triple-play (STF+BLF+TVS), quadruple-play e quintuple-play (BLF+STF+TVS+STM+BLM). De acordo com a ANACOM a modalidade mais utilizada é o triple-play (42,5%), seguido do quintuple play (36,4 %). Esta última modalidade é a que mais tem crescido nos últimos trimestres &lt;a href=&#34;http://www.anacom.pt/render.jsp?contentId=1363443#.Vk5dT_nhCUk&#34;&gt;[1]&lt;/a&gt;. A aposta no quintuple play surge do facto do número de smartphones e tablets ter aumentado significativamente nos últimos anos e de estes representarem uma forma cómoda de consumir internet e televisão.
+Quanto ao número de subscritores, o grupo Altice representa o prestador com maior quota de serviços em pacote (48,8 %), seguido pelo grupos NOS (38,8 %) e Vodafone (12,4 %). O Grupo Altice lidera nas modalidades double play, triple play e quintuple play, enquanto o Grupo NOS lidera no quadruple play. Segundo a ANACOM, isto resultou, em média, numa factura mensal dos agregados familiares de 51,21 euros &lt;a href=&#34;http://www.anacom.pt/render.jsp?contentId=1363443#.Vk5dT_nhCUk&#34;&gt;[1]&lt;/a&gt;. Podem verificar-se estas mesmas informações na tabela 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+    table.tableizer-table {
+    border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.tableizer-table td {
+    padding: 4px;
+    margin: 3px;
+    border: 1px solid #ccc;
+}
+.tableizer-table th {
+    background-color: #104E8B;
+    color: #FFF;
+    font-weight: bold;
+}
+&lt;/style&gt;&lt;table class=&#34;tableizer-table&#34;&gt;
+&lt;tr class=&#34;tableizer-firstrow&#34;&gt;&lt;th&gt; &lt;/th&gt;&lt;th&gt;Multiple play&lt;/th&gt;&lt;th&gt;Double play&lt;/th&gt;&lt;th&gt;Triple play&lt;/th&gt;&lt;th&gt;Quadruple play&lt;/th&gt;&lt;th&gt;Quintuple play&lt;/th&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Grupo Altice&lt;/td&gt;&lt;td&gt;48,8&lt;/td&gt;&lt;td&gt;46,3&lt;/td&gt;&lt;td&gt;43,7&lt;/td&gt;&lt;td&gt;13,5&lt;/td&gt;&lt;td&gt;59,4&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;MEO&lt;/td&gt;&lt;td&gt;42,4&lt;/td&gt;&lt;td&gt;32,8&lt;/td&gt;&lt;td&gt;34,2&lt;/td&gt;&lt;td&gt;13,5&lt;/td&gt;&lt;td&gt;59,4&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Cabovisão&lt;/td&gt;&lt;td&gt;6,4&lt;/td&gt;&lt;td&gt;13,4&lt;/td&gt;&lt;td&gt;9,6&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Onitelecom&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Grupo Nos&lt;/td&gt;&lt;td&gt;38,8&lt;/td&gt;&lt;td&gt;41,7&lt;/td&gt;&lt;td&gt;38&lt;/td&gt;&lt;td&gt;80,9&lt;/td&gt;&lt;td&gt;34,1&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;NOS Comunicações&lt;/td&gt;&lt;td&gt;36,3&lt;/td&gt;&lt;td&gt;39,5&lt;/td&gt;&lt;td&gt;34,5&lt;/td&gt;&lt;td&gt;63,4&lt;/td&gt;&lt;td&gt;34,1&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;NOS Madeira&lt;/td&gt;&lt;td&gt;1,7&lt;/td&gt;&lt;td&gt;1,5&lt;/td&gt;&lt;td&gt;2,1&lt;/td&gt;&lt;td&gt;14,4&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;NOS Açores&lt;/td&gt;&lt;td&gt;0,9&lt;/td&gt;&lt;td&gt;0,8&lt;/td&gt;&lt;td&gt;1,4&lt;/td&gt;&lt;td&gt;3,1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Vodafone&lt;/td&gt;&lt;td&gt;12,4&lt;/td&gt;&lt;td&gt;11,8&lt;/td&gt;&lt;td&gt;18,2&lt;/td&gt;&lt;td&gt;5,6&lt;/td&gt;&lt;td&gt;6,5&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Outros prestadores&lt;/td&gt;&lt;td&gt;0,1&lt;/td&gt;&lt;td&gt;0,2&lt;/td&gt;&lt;td&gt;0,1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;Tabela 2 - Quotas de subscritores de serviços prestados em pacote por modalidade (Unidade: % ) – 2º Trimestre de 2015 (ANACOM)&lt;/p&gt;&lt;/p&gt;
+
+&lt;h4&gt;Referências&lt;/h4&gt;
+
+&lt;p&gt;[1]&lt;a href=&#34;http://www.anacom.pt/render.jsp?contentId=1363443#.Vk5dT_nhCUk&#34; title=&#34;&#34;&gt;&lt;a href=&#34;http://www.anacom.pt/render.jsp?contentId=1363443#.Vk5dT_nhCUk&#34;&gt;http://www.anacom.pt/render.jsp?contentId=1363443#.Vk5dT_nhCUk&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
