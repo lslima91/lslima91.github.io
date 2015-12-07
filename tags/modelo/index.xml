@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modelo on IPTV CAV 2015/2016</title>
-    <link>lslima91.github.io/tags/modelo/</link>
+    <link>http://lslima91.github.io/tags/modelo/</link>
     <description>Recent content in Modelo on IPTV CAV 2015/2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,14 +10,14 @@
     <webMaster>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</webMaster>
     <copyright>(c) 2015 IPTV - CAV.</copyright>
     <lastBuildDate>Mon, 07 Dec 2015 19:23:39 +0000</lastBuildDate>
-    <atom:link href="lslima91.github.io/tags/modelo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lslima91.github.io/tags/modelo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Modelo de negócios</title>
-      <link>/lslima91.github.io/2015/12/07/modelo-de-neg%C3%B3cios/</link>
+      <link>http://lslima91.github.io/2015/12/07/modelo-de-neg%C3%B3cios/</link>
       <pubDate>Mon, 07 Dec 2015 19:23:39 +0000</pubDate>
       <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
-      <guid>/lslima91.github.io/2015/12/07/modelo-de-neg%C3%B3cios/</guid>
+      <guid>http://lslima91.github.io/2015/12/07/modelo-de-neg%C3%B3cios/</guid>
       <description>&lt;!-- &lt;h2&gt;Modelo de Negócios&lt;/h2&gt; --&gt;
 
 &lt;p&gt;Nos últimos anos os prestadores de serviços têm vindo a usar um modelo de negócios baseado nos pacotes &lt;em&gt;multiple play&lt;/em&gt;. Estes pacotes podem incluir Serviço Telefónico Fixo (STF), Banda Larga Fixa (BLF), TV por subscrição (TVS), Serviço Telefónico Móvel (STM) e Banda Larga Móvel (BLM). 
