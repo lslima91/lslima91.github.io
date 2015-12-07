@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Investigação on IPTV CAV 2015/2016</title>
-    <link>http://www.example.com/tags/investiga%C3%A7%C3%A3o/</link>
+    <link>http://lslima91.github.io/tags/investiga%C3%A7%C3%A3o/</link>
     <description>Recent content in Investigação on IPTV CAV 2015/2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,14 +10,14 @@
     <webMaster>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</webMaster>
     <copyright>(c) 2015 IPTV - CAV.</copyright>
     <lastBuildDate>Mon, 07 Dec 2015 19:57:55 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/tags/investiga%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lslima91.github.io/tags/investiga%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Desafios actuais e desenvolvimentos futuros</title>
-      <link>http://www.example.com/2015/12/07/desafios-actuais-e-desenvolvimentos-futuros/</link>
+      <link>http://lslima91.github.io/2015/12/07/desafios-actuais-e-desenvolvimentos-futuros/</link>
       <pubDate>Mon, 07 Dec 2015 19:57:55 +0000</pubDate>
       <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
-      <guid>http://www.example.com/2015/12/07/desafios-actuais-e-desenvolvimentos-futuros/</guid>
+      <guid>http://lslima91.github.io/2015/12/07/desafios-actuais-e-desenvolvimentos-futuros/</guid>
       <description>&lt;!-- &lt;h2&gt;Desenvolvimentos actuais e desenvolvimentos futuros&lt;/h2&gt; --&gt;
 
 &lt;p&gt;A situação da IPTV a nível mundial encontra-se em crescimento. No entanto, com o aparecimento de tecnologias concorrentes e maiores requisitos por parte dos utilizadores, a constante investigação nesta área continua um aspecto muito importante. De acordo com a literatura existente, os desenvolvimentos na área da IPTV estão divididos em três áreas: IPTV Channel Control and Management, P2P IPTV systems e Technology Assisted Living &lt;a href=&#34;#ref&#34; title=&#34;&#34;&gt;[1]&lt;/a&gt;.

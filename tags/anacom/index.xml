@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anacom on IPTV CAV 2015/2016</title>
-    <link>http://www.example.com/tags/anacom/</link>
+    <link>http://lslima91.github.io/tags/anacom/</link>
     <description>Recent content in Anacom on IPTV CAV 2015/2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,14 +10,14 @@
     <webMaster>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</webMaster>
     <copyright>(c) 2015 IPTV - CAV.</copyright>
     <lastBuildDate>Mon, 07 Dec 2015 19:28:48 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/tags/anacom/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lslima91.github.io/tags/anacom/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Situação em Portugal</title>
-      <link>http://www.example.com/2015/12/07/situa%C3%A7%C3%A3o-em-portugal/</link>
+      <link>http://lslima91.github.io/2015/12/07/situa%C3%A7%C3%A3o-em-portugal/</link>
       <pubDate>Mon, 07 Dec 2015 19:28:48 +0000</pubDate>
       <author>joao.luis.achada.lima@tecnico.ulisboa.pt (Grupo IPTV CAV)</author>
-      <guid>http://www.example.com/2015/12/07/situa%C3%A7%C3%A3o-em-portugal/</guid>
+      <guid>http://lslima91.github.io/2015/12/07/situa%C3%A7%C3%A3o-em-portugal/</guid>
       <description>&lt;!-- &lt;h2&gt;Situação em Portugal&lt;/h2&gt; --&gt;
 
 &lt;p&gt;Actualmente, NOS (ZON anteriormente) e MEO têm medido forças para serem líderes de quota de mercado nacional. A diferenciação entre os serviços prestados pelas duas marcas passa pelo acesso a conteúdos, canais e serviços exclusivos. Na figura 6 apresentam-se pacotes de serviços oferecidos por cada um.&lt;/p&gt;
